@@ -1,0 +1,6002 @@
+[
+  {
+    "word": "Ubiquitous",
+    "meaning": "至る所にある、遍在する",
+    "sentence": "Smartphones have become ubiquitous in modern daily life.",
+    "translation": "スマートフォンは現代の日常生活において至る所に見られるようになった。"
+  },
+  {
+    "word": "Meticulous",
+    "meaning": "細心の注意を払う、几帳面な",
+    "sentence": "He was meticulous about every detail of the project.",
+    "translation": "彼はそのプロジェクトのあらゆる詳細に細心の注意を払っていた。"
+  },
+  {
+    "word": "Ephemeral",
+    "meaning": "はかない、束の間の",
+    "sentence": "Cherry blossoms are known for their ephemeral beauty.",
+    "translation": "桜はそのはかない美しさで知られている。"
+  },
+  {
+    "word": "Pragmatic",
+    "meaning": "実用的な、現実的な",
+    "sentence": "We need a pragmatic approach to solve this financial crisis.",
+    "translation": "この財政危機を解決するためには現実的なアプローチが必要だ。"
+  },
+  {
+    "word": "Ambivalent",
+    "meaning": "相反する感情を抱く、複雑な心境の",
+    "sentence": "She felt ambivalent about accepting the new job offer.",
+    "translation": "彼女はその新しい仕事のオファーを受けることについて複雑な気持ちだった。"
+  },
+  {
+    "word": "Gargantuan",
+    "meaning": "巨大な、ものすごい",
+    "sentence": "The company made a gargantuan profit this fiscal year.",
+    "translation": "その会社は今年度、莫大な利益を上げた。"
+  },
+  {
+    "word": "Cacophony",
+    "meaning": "不協和音、耳障りな音",
+    "sentence": "A cacophony of car horns filled the crowded street.",
+    "translation": "車のクラクションの不協和音が混雑した通りに満ちていた。"
+  },
+  {
+    "word": "Fastidious",
+    "meaning": "好みがうるさい、気難しい、細部にこだわる",
+    "sentence": "The chef is famously fastidious about the quality of ingredients.",
+    "translation": "そのシェフは食材の品質に非常に厳しいことで有名だ。"
+  },
+  {
+    "word": "Pervasive",
+    "meaning": "蔓延する、浸透する",
+    "sentence": "There is a pervasive feeling of pessimism in the market.",
+    "translation": "市場には悲観的な見方が蔓延している。"
+  },
+  {
+    "word": "Venerable",
+    "meaning": "尊敬すべき、由緒ある",
+    "sentence": "The university has a venerable history of academic excellence.",
+    "translation": "その大学は学問的卓越性における由緒ある歴史を持っている。"
+  },
+  {
+    "word": "Acquiesce",
+    "meaning": "黙従する、しぶしぶ同意する",
+    "sentence": "She decided to acquiesce to their demands.",
+    "translation": "彼女は彼らの要求にしぶしぶ同意することにした。"
+  },
+  {
+    "word": "Acrimony",
+    "meaning": "険悪さ、辛辣さ",
+    "sentence": "The divorce was marked by bitterness and acrimony.",
+    "translation": "その離婚は激しい感情と険悪さに満ちていた。"
+  },
+  {
+    "word": "Acumen",
+    "meaning": "鋭敏さ、洞察力",
+    "sentence": "His business acumen helped the company double its revenue.",
+    "translation": "彼のビジネスの鋭敏さが会社の売上を倍増させた。"
+  },
+  {
+    "word": "Adhere",
+    "meaning": "固着する、（規則・方針などを）遵守する",
+    "sentence": "All members must adhere to the strict safety regulations.",
+    "translation": "全メンバーが厳格な安全規則を遵守しなければならない。"
+  },
+  {
+    "word": "Adjudicate",
+    "meaning": "裁く、判決を下す",
+    "sentence": "A panel of judges will adjudicate the competition.",
+    "translation": "審査員団がそのコンテストの審査を行う。"
+  },
+  {
+    "word": "Administrative",
+    "meaning": "管理上の、行政の",
+    "sentence": "She was burdened with tedious administrative tasks.",
+    "translation": "彼女は面倒な管理業務の負担を抱えていた。"
+  },
+  {
+    "word": "Adroit",
+    "meaning": "巧みな、器用な",
+    "sentence": "She was adroit at handling difficult negotiations.",
+    "translation": "彼女は困難な交渉を巧みに処理した。"
+  },
+  {
+    "word": "Adulation",
+    "meaning": "過度の称賛、追従",
+    "sentence": "The pop star was overwhelmed by the adulation of her fans.",
+    "translation": "そのポップスターはファンからの過度な賞賛に圧倒された。"
+  },
+  {
+    "word": "Adversity",
+    "meaning": "逆境、不運",
+    "sentence": "They showed great resilience in the face of adversity.",
+    "translation": "彼らは逆境に直面して優れた回復力を示した。"
+  },
+  {
+    "word": "Advocate",
+    "meaning": "提唱する、支持する；提唱者、支持者",
+    "sentence": "He has long been an advocate for environmental protection.",
+    "translation": "彼は長年、環境保護の提唱者である。"
+  },
+  {
+    "word": "Aesthetic",
+    "meaning": "美的な、審美的な",
+    "sentence": "The renovation project greatly enhanced the aesthetic appeal of the building.",
+    "translation": "改装プロジェクトにより建物の美観が大幅に向上した。"
+  },
+  {
+    "word": "Affable",
+    "meaning": "愛想のよい、気さくな",
+    "sentence": "The affable hotel manager greeted every guest with a smile.",
+    "translation": "気さくなホテルの支配人はすべての宿泊客を笑顔で迎えた。"
+  },
+  {
+    "word": "Affiliation",
+    "meaning": "所属、提携",
+    "sentence": "The organization has no political affiliation.",
+    "translation": "その組織はいかなる政治団体とも提携していない。"
+  },
+  {
+    "word": "Affluent",
+    "meaning": "裕福な、富裕な",
+    "sentence": "They live in an affluent neighborhood on the hill.",
+    "translation": "彼らは丘の上の裕福な住宅街に住んでいる。"
+  },
+  {
+    "word": "Aggravate",
+    "meaning": "悪化させる、立腹させる",
+    "sentence": "Scratching the mosquito bite will only aggravate it.",
+    "translation": "蚊に刺された場所を引っ掻くと悪化するだけだ。"
+  },
+  {
+    "word": "Aggregate",
+    "meaning": "総計の、合計の；集める、集計する",
+    "sentence": "The aggregate score determined the winner of the tournament.",
+    "translation": "総得点がトーナメントの勝者を決定した。"
+  },
+  {
+    "word": "Alacrity",
+    "meaning": "敏速さ、進んで行う態度",
+    "sentence": "She accepted the invitation with alacrity.",
+    "translation": "彼女は快くその招待を受けた。"
+  },
+  {
+    "word": "Alienate",
+    "meaning": "疎外する、離反させる",
+    "sentence": "His arrogant behavior alienated him from his peers.",
+    "translation": "彼の傲慢な態度は仲間から彼を孤立させた。"
+  },
+  {
+    "word": "Alleviate",
+    "meaning": "軽減する、緩和する",
+    "sentence": "New medications can help alleviate chronic pain.",
+    "translation": "新しい薬は慢性的な痛みを和らげるのに役立つ。"
+  },
+  {
+    "word": "Allocate",
+    "meaning": "割り当てる、配分する",
+    "sentence": "The government allocated funds for public education.",
+    "translation": "政府は公教育のために資金を割り当てた。"
+  },
+  {
+    "word": "Altruistic",
+    "meaning": "利他的な",
+    "sentence": "Her altruistic acts earned her community respect.",
+    "translation": "彼女の利他的な行動は地域社会の尊敬を集めた。"
+  },
+  {
+    "word": "Amalgamate",
+    "meaning": "合併する、統合する",
+    "sentence": "The two companies decided to amalgamate last year.",
+    "translation": "2社は昨年合併することを決めた。"
+  },
+  {
+    "word": "Ambiguous",
+    "meaning": "曖昧な、多義的な",
+    "sentence": "His ambiguous response left us confused.",
+    "translation": "彼の曖昧な返答によって私たちは混乱した。"
+  },
+  {
+    "word": "Ameliorate",
+    "meaning": "改善する、改良する",
+    "sentence": "Steps were taken to ameliorate working conditions.",
+    "translation": "労働条件を改善するための措置が講じられた。"
+  },
+  {
+    "word": "Amenable",
+    "meaning": "（提案などに）応じる気がある、従順な",
+    "sentence": "He proved amenable to our suggestions.",
+    "translation": "彼は私たちの提案に従順であることが分かった。"
+  },
+  {
+    "word": "Amiable",
+    "meaning": "愛想の良い、親しみやすい",
+    "sentence": "She is known for her amiable personality.",
+    "translation": "彼女は愛想の良い性格で知られている。"
+  },
+  {
+    "word": "Amorphous",
+    "meaning": "無定形の、まとまりのない",
+    "sentence": "The project is still in an amorphous stage.",
+    "translation": "そのプロジェクトはまだまとまりのない段階にある。"
+  },
+  {
+    "word": "Anachronism",
+    "meaning": "時代錯誤、時代遅れのもの",
+    "sentence": "Typewriters seem like an anachronism in the digital age.",
+    "translation": "タイプライターはデジタル時代においては時代遅れのように思える。"
+  },
+  {
+    "word": "Analogous",
+    "meaning": "類似した、相似の",
+    "sentence": "The human brain is often compared to an analogous computer system.",
+    "translation": "人間の脳はよく似たコンピュータシステムに例えられる。"
+  },
+  {
+    "word": "Anarchy",
+    "meaning": "無政府状態、無秩序",
+    "sentence": "The country descended into anarchy following the civil war.",
+    "translation": "内戦に続いてその国は無政府状態に陥った。"
+  },
+  {
+    "word": "Abate",
+    "meaning": "弱まる、和らぐ",
+    "sentence": "It is important to understand how to abate in the right context.",
+    "translation": "適切な文脈で「弱まる、和らぐ」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Aberration",
+    "meaning": "逸脱、異常",
+    "sentence": "The term \"aberration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「逸脱、異常」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abhor",
+    "meaning": "ひどく嫌う",
+    "sentence": "It is important to understand how to abhor in the right context.",
+    "translation": "適切な文脈で「ひどく嫌う」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abide",
+    "meaning": "従う、耐える",
+    "sentence": "It is important to understand how to abide in the right context.",
+    "translation": "適切な文脈で「従う、耐える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abolish",
+    "meaning": "廃止する",
+    "sentence": "It is important to understand how to abolish in the right context.",
+    "translation": "適切な文脈で「廃止する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abound",
+    "meaning": "豊富にある",
+    "sentence": "It is important to understand how to abound in the right context.",
+    "translation": "適切な文脈で「豊富にある」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abrupt",
+    "meaning": "突然の、ぶっきらぼうな",
+    "sentence": "The term \"abrupt\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「突然の、ぶっきらぼうな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abscond",
+    "meaning": "逃亡する",
+    "sentence": "It is important to understand how to abscond in the right context.",
+    "translation": "適切な文脈で「逃亡する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Absolve",
+    "meaning": "免責する",
+    "sentence": "It is important to understand how to absolve in the right context.",
+    "translation": "適切な文脈で「免責する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abstain",
+    "meaning": "控える、棄権する",
+    "sentence": "It is important to understand how to abstain in the right context.",
+    "translation": "適切な文脈で「控える、棄権する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abstract",
+    "meaning": "抽象的な",
+    "sentence": "The term \"abstract\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抽象的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abysmal",
+    "meaning": "ひどい、底知れない",
+    "sentence": "The term \"abysmal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ひどい、底知れない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accede",
+    "meaning": "同意する、就任する",
+    "sentence": "It is important to understand how to accede in the right context.",
+    "translation": "適切な文脈で「同意する、就任する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Accentuate",
+    "meaning": "強調する",
+    "sentence": "It is important to understand how to accentuate in the right context.",
+    "translation": "適切な文脈で「強調する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Accessible",
+    "meaning": "利用しやすい",
+    "sentence": "The term \"accessible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「利用しやすい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Acclaim",
+    "meaning": "称賛する、称賛",
+    "sentence": "It is important to understand how to acclaim in the right context.",
+    "translation": "適切な文脈で「称賛する、称賛」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Accommodate",
+    "meaning": "収容する、適応させる",
+    "sentence": "It is important to understand how to accommodate in the right context.",
+    "translation": "適切な文脈で「収容する、適応させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Accountable",
+    "meaning": "説明責任がある",
+    "sentence": "The term \"accountable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「説明責任がある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accrue",
+    "meaning": "蓄積する、生じる",
+    "sentence": "It is important to understand how to accrue in the right context.",
+    "translation": "適切な文脈で「蓄積する、生じる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Accumulate",
+    "meaning": "蓄積する",
+    "sentence": "It is important to understand how to accumulate in the right context.",
+    "translation": "適切な文脈で「蓄積する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Acerbic",
+    "meaning": "辛辣な",
+    "sentence": "The term \"acerbic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「辛辣な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Acknowledge",
+    "meaning": "認める",
+    "sentence": "It is important to understand how to acknowledge in the right context.",
+    "translation": "適切な文脈で「認める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Acquaint",
+    "meaning": "知らせる、慣れさせる",
+    "sentence": "It is important to understand how to acquaint in the right context.",
+    "translation": "適切な文脈で「知らせる、慣れさせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Activate",
+    "meaning": "作動させる",
+    "sentence": "It is important to understand how to activate in the right context.",
+    "translation": "適切な文脈で「作動させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Acute",
+    "meaning": "鋭い、深刻な",
+    "sentence": "The term \"acute\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「鋭い、深刻な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adapt",
+    "meaning": "適応する、改変する",
+    "sentence": "It is important to understand how to adapt in the right context.",
+    "translation": "適切な文脈で「適応する、改変する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Adequate",
+    "meaning": "十分な",
+    "sentence": "The term \"adequate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「十分な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adjacent",
+    "meaning": "隣接した",
+    "sentence": "The term \"adjacent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「隣接した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adjourn",
+    "meaning": "延期する、休会する",
+    "sentence": "It is important to understand how to adjourn in the right context.",
+    "translation": "適切な文脈で「延期する、休会する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Admonish",
+    "meaning": "忠告する、叱責する",
+    "sentence": "It is important to understand how to admonish in the right context.",
+    "translation": "適切な文脈で「忠告する、叱責する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Adorn",
+    "meaning": "飾る",
+    "sentence": "It is important to understand how to adorn in the right context.",
+    "translation": "適切な文脈で「飾る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Adulterate",
+    "meaning": "混ぜ物をして品質を落とす",
+    "sentence": "It is important to understand how to adulterate in the right context.",
+    "translation": "適切な文脈で「混ぜ物をして品質を落とす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Advance",
+    "meaning": "前進する、進歩",
+    "sentence": "It is important to understand how to advance in the right context.",
+    "translation": "適切な文脈で「前進する、進歩」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Adverse",
+    "meaning": "不利な、有害な",
+    "sentence": "The term \"adverse\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不利な、有害な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Affect",
+    "meaning": "影響する",
+    "sentence": "It is important to understand how to affect in the right context.",
+    "translation": "適切な文脈で「影響する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Agile",
+    "meaning": "機敏な",
+    "sentence": "The term \"agile\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「機敏な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Agitate",
+    "meaning": "動揺させる、扇動する",
+    "sentence": "It is important to understand how to agitate in the right context.",
+    "translation": "適切な文脈で「動揺させる、扇動する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ailment",
+    "meaning": "軽い病気",
+    "sentence": "The term \"ailment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「軽い病気」という意味の語が役立つ。"
+  },
+  {
+    "word": "Albeit",
+    "meaning": "〜ではあるが",
+    "sentence": "The term \"albeit\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「〜ではあるが」という意味の語が役立つ。"
+  },
+  {
+    "word": "Allege",
+    "meaning": "主張する",
+    "sentence": "It is important to understand how to allege in the right context.",
+    "translation": "適切な文脈で「主張する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Alliance",
+    "meaning": "同盟、提携",
+    "sentence": "The term \"alliance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「同盟、提携」という意味の語が役立つ。"
+  },
+  {
+    "word": "Allude",
+    "meaning": "ほのめかす",
+    "sentence": "It is important to understand how to allude in the right context.",
+    "translation": "適切な文脈で「ほのめかす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Allure",
+    "meaning": "魅力、誘惑する",
+    "sentence": "It is important to understand how to allure in the right context.",
+    "translation": "適切な文脈で「魅力、誘惑する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Alter",
+    "meaning": "変更する",
+    "sentence": "It is important to understand how to alter in the right context.",
+    "translation": "適切な文脈で「変更する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Amass",
+    "meaning": "蓄積する",
+    "sentence": "It is important to understand how to amass in the right context.",
+    "translation": "適切な文脈で「蓄積する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ambitious",
+    "meaning": "野心的な",
+    "sentence": "The term \"ambitious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「野心的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Amend",
+    "meaning": "修正する",
+    "sentence": "It is important to understand how to amend in the right context.",
+    "translation": "適切な文脈で「修正する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ample",
+    "meaning": "十分な、豊富な",
+    "sentence": "The term \"ample\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「十分な、豊富な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Analog",
+    "meaning": "類似物、アナログの",
+    "sentence": "The term \"analog\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「類似物、アナログの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Animosity",
+    "meaning": "敵意",
+    "sentence": "The term \"animosity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「敵意」という意味の語が役立つ。"
+  },
+  {
+    "word": "Annex",
+    "meaning": "併合する",
+    "sentence": "It is important to understand how to annex in the right context.",
+    "translation": "適切な文脈で「併合する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Annihilate",
+    "meaning": "全滅させる",
+    "sentence": "It is important to understand how to annihilate in the right context.",
+    "translation": "適切な文脈で「全滅させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Annotate",
+    "meaning": "注釈を付ける",
+    "sentence": "It is important to understand how to annotate in the right context.",
+    "translation": "適切な文脈で「注釈を付ける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Annual",
+    "meaning": "毎年の",
+    "sentence": "The term \"annual\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「毎年の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Anticipate",
+    "meaning": "予期する",
+    "sentence": "It is important to understand how to anticipate in the right context.",
+    "translation": "適切な文脈で「予期する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Apathy",
+    "meaning": "無関心",
+    "sentence": "The term \"apathy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無関心」という意味の語が役立つ。"
+  },
+  {
+    "word": "Appall",
+    "meaning": "ぞっとさせる",
+    "sentence": "It is important to understand how to appall in the right context.",
+    "translation": "適切な文脈で「ぞっとさせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Appease",
+    "meaning": "なだめる",
+    "sentence": "It is important to understand how to appease in the right context.",
+    "translation": "適切な文脈で「なだめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Apprehend",
+    "meaning": "逮捕する、理解する",
+    "sentence": "It is important to understand how to apprehend in the right context.",
+    "translation": "適切な文脈で「逮捕する、理解する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Arbitrary",
+    "meaning": "恣意的な、任意の",
+    "sentence": "The term \"arbitrary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「恣意的な、任意の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Arduous",
+    "meaning": "骨の折れる",
+    "sentence": "The term \"arduous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「骨の折れる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Arid",
+    "meaning": "乾燥した",
+    "sentence": "The term \"arid\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「乾燥した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Articulate",
+    "meaning": "明瞭に表現する",
+    "sentence": "It is important to understand how to articulate in the right context.",
+    "translation": "適切な文脈で「明瞭に表現する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ascend",
+    "meaning": "上昇する",
+    "sentence": "It is important to understand how to ascend in the right context.",
+    "translation": "適切な文脈で「上昇する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ascertain",
+    "meaning": "確かめる",
+    "sentence": "It is important to understand how to ascertain in the right context.",
+    "translation": "適切な文脈で「確かめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Aspire",
+    "meaning": "熱望する",
+    "sentence": "It is important to understand how to aspire in the right context.",
+    "translation": "適切な文脈で「熱望する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Assail",
+    "meaning": "激しく攻撃する",
+    "sentence": "It is important to understand how to assail in the right context.",
+    "translation": "適切な文脈で「激しく攻撃する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Assess",
+    "meaning": "評価する",
+    "sentence": "It is important to understand how to assess in the right context.",
+    "translation": "適切な文脈で「評価する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Assimilate",
+    "meaning": "同化する、吸収する",
+    "sentence": "It is important to understand how to assimilate in the right context.",
+    "translation": "適切な文脈で「同化する、吸収する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Assuage",
+    "meaning": "和らげる",
+    "sentence": "It is important to understand how to assuage in the right context.",
+    "translation": "適切な文脈で「和らげる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Astound",
+    "meaning": "仰天させる",
+    "sentence": "It is important to understand how to astound in the right context.",
+    "translation": "適切な文脈で「仰天させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Astute",
+    "meaning": "鋭敏な",
+    "sentence": "The term \"astute\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「鋭敏な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Atrocity",
+    "meaning": "残虐行為",
+    "sentence": "The term \"atrocity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「残虐行為」という意味の語が役立つ。"
+  },
+  {
+    "word": "Attain",
+    "meaning": "達成する",
+    "sentence": "It is important to understand how to attain in the right context.",
+    "translation": "適切な文脈で「達成する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Attribute",
+    "meaning": "〜に帰する、属性",
+    "sentence": "It is important to understand how to attribute in the right context.",
+    "translation": "適切な文脈で「〜に帰する、属性」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Augment",
+    "meaning": "増やす",
+    "sentence": "It is important to understand how to augment in the right context.",
+    "translation": "適切な文脈で「増やす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Auspicious",
+    "meaning": "縁起の良い",
+    "sentence": "The term \"auspicious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「縁起の良い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Austere",
+    "meaning": "質素な、厳格な",
+    "sentence": "The term \"austere\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「質素な、厳格な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Autonomous",
+    "meaning": "自律した",
+    "sentence": "The term \"autonomous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「自律した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Avert",
+    "meaning": "回避する",
+    "sentence": "It is important to understand how to avert in the right context.",
+    "translation": "適切な文脈で「回避する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Avid",
+    "meaning": "熱心な",
+    "sentence": "The term \"avid\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「熱心な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Baffle",
+    "meaning": "困惑させる",
+    "sentence": "It is important to understand how to baffle in the right context.",
+    "translation": "適切な文脈で「困惑させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Banish",
+    "meaning": "追放する",
+    "sentence": "It is important to understand how to banish in the right context.",
+    "translation": "適切な文脈で「追放する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Barter",
+    "meaning": "物々交換する",
+    "sentence": "The term \"barter\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「物々交換する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Beacon",
+    "meaning": "標識灯、希望の光",
+    "sentence": "The term \"beacon\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「標識灯、希望の光」という意味の語が役立つ。"
+  },
+  {
+    "word": "Belittle",
+    "meaning": "見くびる",
+    "sentence": "It is important to understand how to belittle in the right context.",
+    "translation": "適切な文脈で「見くびる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Belligerent",
+    "meaning": "好戦的な",
+    "sentence": "The term \"belligerent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「好戦的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Benevolent",
+    "meaning": "慈悲深い",
+    "sentence": "The term \"benevolent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慈悲深い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Benign",
+    "meaning": "良性の、無害な",
+    "sentence": "The term \"benign\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「良性の、無害な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Bewilder",
+    "meaning": "当惑させる",
+    "sentence": "It is important to understand how to bewilder in the right context.",
+    "translation": "適切な文脈で「当惑させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Bias",
+    "meaning": "偏見、偏らせる",
+    "sentence": "It is important to understand how to bias in the right context.",
+    "translation": "適切な文脈で「偏見、偏らせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Bolster",
+    "meaning": "強化する",
+    "sentence": "It is important to understand how to bolster in the right context.",
+    "translation": "適切な文脈で「強化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Boon",
+    "meaning": "恩恵",
+    "sentence": "The term \"boon\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「恩恵」という意味の語が役立つ。"
+  },
+  {
+    "word": "Breach",
+    "meaning": "違反、破る",
+    "sentence": "It is important to understand how to breach in the right context.",
+    "translation": "適切な文脈で「違反、破る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Brisk",
+    "meaning": "活発な、きびきびした",
+    "sentence": "The term \"brisk\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「活発な、きびきびした」という意味の語が役立つ。"
+  },
+  {
+    "word": "Brittle",
+    "meaning": "もろい",
+    "sentence": "The term \"brittle\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「もろい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Broach",
+    "meaning": "話題を切り出す",
+    "sentence": "It is important to understand how to broach in the right context.",
+    "translation": "適切な文脈で「話題を切り出す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Burgeon",
+    "meaning": "急成長する",
+    "sentence": "It is important to understand how to burgeon in the right context.",
+    "translation": "適切な文脈で「急成長する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Calamity",
+    "meaning": "大災害",
+    "sentence": "The term \"calamity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大災害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Callous",
+    "meaning": "冷淡な",
+    "sentence": "The term \"callous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「冷淡な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Candor",
+    "meaning": "率直さ",
+    "sentence": "The term \"candor\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「率直さ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Capricious",
+    "meaning": "気まぐれな",
+    "sentence": "The term \"capricious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「気まぐれな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Catalyst",
+    "meaning": "触媒、きっかけ",
+    "sentence": "The term \"catalyst\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「触媒、きっかけ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Caution",
+    "meaning": "注意、警告する",
+    "sentence": "It is important to understand how to caution in the right context.",
+    "translation": "適切な文脈で「注意、警告する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Cease",
+    "meaning": "やめる",
+    "sentence": "It is important to understand how to cease in the right context.",
+    "translation": "適切な文脈で「やめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Censure",
+    "meaning": "非難する",
+    "sentence": "It is important to understand how to censure in the right context.",
+    "translation": "適切な文脈で「非難する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Chaotic",
+    "meaning": "混沌とした",
+    "sentence": "The term \"chaotic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「混沌とした」という意味の語が役立つ。"
+  },
+  {
+    "word": "Cherish",
+    "meaning": "大切にする",
+    "sentence": "It is important to understand how to cherish in the right context.",
+    "translation": "適切な文脈で「大切にする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Chronic",
+    "meaning": "慢性的な",
+    "sentence": "The term \"chronic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慢性的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Circumvent",
+    "meaning": "回避する、抜け道を使う",
+    "sentence": "It is important to understand how to circumvent in the right context.",
+    "translation": "適切な文脈で「回避する、抜け道を使う」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Clarify",
+    "meaning": "明確にする",
+    "sentence": "It is important to understand how to clarify in the right context.",
+    "translation": "適切な文脈で「明確にする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Coerce",
+    "meaning": "強要する",
+    "sentence": "It is important to understand how to coerce in the right context.",
+    "translation": "適切な文脈で「強要する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Coherent",
+    "meaning": "筋の通った",
+    "sentence": "The term \"coherent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「筋の通った」という意味の語が役立つ。"
+  },
+  {
+    "word": "Coincide",
+    "meaning": "同時に起こる、一致する",
+    "sentence": "It is important to understand how to coincide in the right context.",
+    "translation": "適切な文脈で「同時に起こる、一致する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Collaborate",
+    "meaning": "協力する",
+    "sentence": "It is important to understand how to collaborate in the right context.",
+    "translation": "適切な文脈で「協力する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Collapse",
+    "meaning": "崩壊する",
+    "sentence": "It is important to understand how to collapse in the right context.",
+    "translation": "適切な文脈で「崩壊する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Commemorate",
+    "meaning": "記念する",
+    "sentence": "It is important to understand how to commemorate in the right context.",
+    "translation": "適切な文脈で「記念する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Commence",
+    "meaning": "始める",
+    "sentence": "It is important to understand how to commence in the right context.",
+    "translation": "適切な文脈で「始める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Compassion",
+    "meaning": "思いやり",
+    "sentence": "The term \"compassion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「思いやり」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compel",
+    "meaning": "強制する",
+    "sentence": "It is important to understand how to compel in the right context.",
+    "translation": "適切な文脈で「強制する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Compensate",
+    "meaning": "補償する",
+    "sentence": "It is important to understand how to compensate in the right context.",
+    "translation": "適切な文脈で「補償する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Competent",
+    "meaning": "有能な",
+    "sentence": "The term \"competent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「有能な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compile",
+    "meaning": "編集する、まとめる",
+    "sentence": "It is important to understand how to compile in the right context.",
+    "translation": "適切な文脈で「編集する、まとめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Complacent",
+    "meaning": "自己満足した",
+    "sentence": "The term \"complacent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「自己満足した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Complement",
+    "meaning": "補完するもの、補完する",
+    "sentence": "It is important to understand how to complement in the right context.",
+    "translation": "適切な文脈で「補完するもの、補完する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Comprehensive",
+    "meaning": "包括的な",
+    "sentence": "The term \"comprehensive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「包括的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Comprise",
+    "meaning": "構成する、含む",
+    "sentence": "It is important to understand how to comprise in the right context.",
+    "translation": "適切な文脈で「構成する、含む」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Compromise",
+    "meaning": "妥協、妥協する",
+    "sentence": "It is important to understand how to compromise in the right context.",
+    "translation": "適切な文脈で「妥協、妥協する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conceal",
+    "meaning": "隠す",
+    "sentence": "It is important to understand how to conceal in the right context.",
+    "translation": "適切な文脈で「隠す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Concede",
+    "meaning": "認める、譲歩する",
+    "sentence": "It is important to understand how to concede in the right context.",
+    "translation": "適切な文脈で「認める、譲歩する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Concise",
+    "meaning": "簡潔な",
+    "sentence": "The term \"concise\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「簡潔な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Concur",
+    "meaning": "同意する",
+    "sentence": "It is important to understand how to concur in the right context.",
+    "translation": "適切な文脈で「同意する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Condemn",
+    "meaning": "非難する、有罪とする",
+    "sentence": "It is important to understand how to condemn in the right context.",
+    "translation": "適切な文脈で「非難する、有罪とする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Condone",
+    "meaning": "容認する",
+    "sentence": "It is important to understand how to condone in the right context.",
+    "translation": "適切な文脈で「容認する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conducive",
+    "meaning": "助けとなる",
+    "sentence": "The term \"conducive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「助けとなる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Confer",
+    "meaning": "協議する、授与する",
+    "sentence": "It is important to understand how to confer in the right context.",
+    "translation": "適切な文脈で「協議する、授与する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Confine",
+    "meaning": "制限する、閉じ込める",
+    "sentence": "It is important to understand how to confine in the right context.",
+    "translation": "適切な文脈で「制限する、閉じ込める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conform",
+    "meaning": "従う、適合する",
+    "sentence": "It is important to understand how to conform in the right context.",
+    "translation": "適切な文脈で「従う、適合する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Confront",
+    "meaning": "直面する",
+    "sentence": "It is important to understand how to confront in the right context.",
+    "translation": "適切な文脈で「直面する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Congest",
+    "meaning": "混雑させる",
+    "sentence": "It is important to understand how to congest in the right context.",
+    "translation": "適切な文脈で「混雑させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conjecture",
+    "meaning": "推測、推測する",
+    "sentence": "It is important to understand how to conjecture in the right context.",
+    "translation": "適切な文脈で「推測、推測する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conscientious",
+    "meaning": "良心的な、勤勉な",
+    "sentence": "The term \"conscientious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「良心的な、勤勉な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Consensus",
+    "meaning": "合意",
+    "sentence": "The term \"consensus\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「合意」という意味の語が役立つ。"
+  },
+  {
+    "word": "Conserve",
+    "meaning": "保護する、節約する",
+    "sentence": "It is important to understand how to conserve in the right context.",
+    "translation": "適切な文脈で「保護する、節約する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conspicuous",
+    "meaning": "目立つ",
+    "sentence": "The term \"conspicuous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「目立つ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Constrain",
+    "meaning": "制約する",
+    "sentence": "It is important to understand how to constrain in the right context.",
+    "translation": "適切な文脈で「制約する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Contemplate",
+    "meaning": "熟考する",
+    "sentence": "It is important to understand how to contemplate in the right context.",
+    "translation": "適切な文脈で「熟考する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Contempt",
+    "meaning": "軽蔑",
+    "sentence": "The term \"contempt\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「軽蔑」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contend",
+    "meaning": "主張する、争う",
+    "sentence": "It is important to understand how to contend in the right context.",
+    "translation": "適切な文脈で「主張する、争う」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Contingent",
+    "meaning": "条件次第の",
+    "sentence": "The term \"contingent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「条件次第の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contradict",
+    "meaning": "矛盾する、反論する",
+    "sentence": "It is important to understand how to contradict in the right context.",
+    "translation": "適切な文脈で「矛盾する、反論する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Contrive",
+    "meaning": "考案する、企む",
+    "sentence": "It is important to understand how to contrive in the right context.",
+    "translation": "適切な文脈で「考案する、企む」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Controversy",
+    "meaning": "論争",
+    "sentence": "The term \"controversy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「論争」という意味の語が役立つ。"
+  },
+  {
+    "word": "Convene",
+    "meaning": "招集する",
+    "sentence": "It is important to understand how to convene in the right context.",
+    "translation": "適切な文脈で「招集する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conventional",
+    "meaning": "従来の、慣習的な",
+    "sentence": "The term \"conventional\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「従来の、慣習的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Converge",
+    "meaning": "収束する",
+    "sentence": "It is important to understand how to converge in the right context.",
+    "translation": "適切な文脈で「収束する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Convey",
+    "meaning": "伝える、運ぶ",
+    "sentence": "It is important to understand how to convey in the right context.",
+    "translation": "適切な文脈で「伝える、運ぶ」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conviction",
+    "meaning": "確信、有罪判決",
+    "sentence": "The term \"conviction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「確信、有罪判決」という意味の語が役立つ。"
+  },
+  {
+    "word": "Corroborate",
+    "meaning": "裏付ける",
+    "sentence": "It is important to understand how to corroborate in the right context.",
+    "translation": "適切な文脈で「裏付ける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Corrode",
+    "meaning": "腐食させる",
+    "sentence": "It is important to understand how to corrode in the right context.",
+    "translation": "適切な文脈で「腐食させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Counteract",
+    "meaning": "打ち消す",
+    "sentence": "It is important to understand how to counteract in the right context.",
+    "translation": "適切な文脈で「打ち消す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Courteous",
+    "meaning": "礼儀正しい",
+    "sentence": "The term \"courteous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「礼儀正しい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Crave",
+    "meaning": "切望する",
+    "sentence": "It is important to understand how to crave in the right context.",
+    "translation": "適切な文脈で「切望する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Credible",
+    "meaning": "信頼できる",
+    "sentence": "The term \"credible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「信頼できる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Crucial",
+    "meaning": "極めて重要な",
+    "sentence": "The term \"crucial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「極めて重要な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Culminate",
+    "meaning": "頂点に達する",
+    "sentence": "It is important to understand how to culminate in the right context.",
+    "translation": "適切な文脈で「頂点に達する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Cumbersome",
+    "meaning": "扱いにくい",
+    "sentence": "The term \"cumbersome\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「扱いにくい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Curb",
+    "meaning": "抑制する",
+    "sentence": "It is important to understand how to curb in the right context.",
+    "translation": "適切な文脈で「抑制する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Cynical",
+    "meaning": "冷笑的な",
+    "sentence": "The term \"cynical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「冷笑的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Daunt",
+    "meaning": "ひるませる",
+    "sentence": "It is important to understand how to daunt in the right context.",
+    "translation": "適切な文脈で「ひるませる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Debacle",
+    "meaning": "大失敗",
+    "sentence": "The term \"debacle\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大失敗」という意味の語が役立つ。"
+  },
+  {
+    "word": "Debilitate",
+    "meaning": "衰弱させる",
+    "sentence": "It is important to understand how to debilitate in the right context.",
+    "translation": "適切な文脈で「衰弱させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Decay",
+    "meaning": "腐敗する、衰退",
+    "sentence": "It is important to understand how to decay in the right context.",
+    "translation": "適切な文脈で「腐敗する、衰退」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deceive",
+    "meaning": "だます",
+    "sentence": "It is important to understand how to deceive in the right context.",
+    "translation": "適切な文脈で「だます」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Decipher",
+    "meaning": "解読する",
+    "sentence": "It is important to understand how to decipher in the right context.",
+    "translation": "適切な文脈で「解読する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Decline",
+    "meaning": "減少する、断る",
+    "sentence": "It is important to understand how to decline in the right context.",
+    "translation": "適切な文脈で「減少する、断る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Dedicate",
+    "meaning": "ささげる",
+    "sentence": "It is important to understand how to dedicate in the right context.",
+    "translation": "適切な文脈で「ささげる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deduct",
+    "meaning": "差し引く",
+    "sentence": "It is important to understand how to deduct in the right context.",
+    "translation": "適切な文脈で「差し引く」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Defame",
+    "meaning": "中傷する",
+    "sentence": "It is important to understand how to defame in the right context.",
+    "translation": "適切な文脈で「中傷する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deficiency",
+    "meaning": "不足、欠陥",
+    "sentence": "The term \"deficiency\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不足、欠陥」という意味の語が役立つ。"
+  },
+  {
+    "word": "Defy",
+    "meaning": "逆らう",
+    "sentence": "It is important to understand how to defy in the right context.",
+    "translation": "適切な文脈で「逆らう」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Degrade",
+    "meaning": "低下させる、劣化させる",
+    "sentence": "It is important to understand how to degrade in the right context.",
+    "translation": "適切な文脈で「低下させる、劣化させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deliberate",
+    "meaning": "慎重な、熟考する",
+    "sentence": "The term \"deliberate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慎重な、熟考する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Delineate",
+    "meaning": "詳しく描写する",
+    "sentence": "It is important to understand how to delineate in the right context.",
+    "translation": "適切な文脈で「詳しく描写する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Delude",
+    "meaning": "欺く",
+    "sentence": "It is important to understand how to delude in the right context.",
+    "translation": "適切な文脈で「欺く」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Demolish",
+    "meaning": "取り壊す",
+    "sentence": "It is important to understand how to demolish in the right context.",
+    "translation": "適切な文脈で「取り壊す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Denounce",
+    "meaning": "公然と非難する",
+    "sentence": "It is important to understand how to denounce in the right context.",
+    "translation": "適切な文脈で「公然と非難する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deplete",
+    "meaning": "使い果たす",
+    "sentence": "It is important to understand how to deplete in the right context.",
+    "translation": "適切な文脈で「使い果たす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deplore",
+    "meaning": "嘆く、強く非難する",
+    "sentence": "It is important to understand how to deplore in the right context.",
+    "translation": "適切な文脈で「嘆く、強く非難する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deploy",
+    "meaning": "配備する、展開する",
+    "sentence": "It is important to understand how to deploy in the right context.",
+    "translation": "適切な文脈で「配備する、展開する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deride",
+    "meaning": "あざける",
+    "sentence": "It is important to understand how to deride in the right context.",
+    "translation": "適切な文脈で「あざける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Desolate",
+    "meaning": "荒れ果てた",
+    "sentence": "The term \"desolate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「荒れ果てた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Despise",
+    "meaning": "軽蔑する",
+    "sentence": "It is important to understand how to despise in the right context.",
+    "translation": "適切な文脈で「軽蔑する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deter",
+    "meaning": "思いとどまらせる",
+    "sentence": "It is important to understand how to deter in the right context.",
+    "translation": "適切な文脈で「思いとどまらせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Deteriorate",
+    "meaning": "悪化する",
+    "sentence": "It is important to understand how to deteriorate in the right context.",
+    "translation": "適切な文脈で「悪化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Detrimental",
+    "meaning": "有害な",
+    "sentence": "The term \"detrimental\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「有害な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Devastate",
+    "meaning": "壊滅させる",
+    "sentence": "It is important to understand how to devastate in the right context.",
+    "translation": "適切な文脈で「壊滅させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Devise",
+    "meaning": "考案する",
+    "sentence": "It is important to understand how to devise in the right context.",
+    "translation": "適切な文脈で「考案する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Devout",
+    "meaning": "信心深い",
+    "sentence": "The term \"devout\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「信心深い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Diagnose",
+    "meaning": "診断する",
+    "sentence": "It is important to understand how to diagnose in the right context.",
+    "translation": "適切な文脈で「診断する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Diffuse",
+    "meaning": "拡散する、広まった",
+    "sentence": "It is important to understand how to diffuse in the right context.",
+    "translation": "適切な文脈で「拡散する、広まった」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Diligent",
+    "meaning": "勤勉な",
+    "sentence": "The term \"diligent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「勤勉な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Diminish",
+    "meaning": "減少する",
+    "sentence": "It is important to understand how to diminish in the right context.",
+    "translation": "適切な文脈で「減少する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disarray",
+    "meaning": "混乱",
+    "sentence": "The term \"disarray\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「混乱」という意味の語が役立つ。"
+  },
+  {
+    "word": "Discern",
+    "meaning": "見分ける",
+    "sentence": "It is important to understand how to discern in the right context.",
+    "translation": "適切な文脈で「見分ける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disclose",
+    "meaning": "明らかにする",
+    "sentence": "It is important to understand how to disclose in the right context.",
+    "translation": "適切な文脈で「明らかにする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Discreet",
+    "meaning": "慎重な、分別のある",
+    "sentence": "The term \"discreet\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慎重な、分別のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Discrepancy",
+    "meaning": "食い違い",
+    "sentence": "The term \"discrepancy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「食い違い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Discriminate",
+    "meaning": "区別する、差別する",
+    "sentence": "It is important to understand how to discriminate in the right context.",
+    "translation": "適切な文脈で「区別する、差別する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disdain",
+    "meaning": "軽蔑する",
+    "sentence": "It is important to understand how to disdain in the right context.",
+    "translation": "適切な文脈で「軽蔑する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Dismantle",
+    "meaning": "解体する",
+    "sentence": "It is important to understand how to dismantle in the right context.",
+    "translation": "適切な文脈で「解体する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disparage",
+    "meaning": "けなす",
+    "sentence": "It is important to understand how to disparage in the right context.",
+    "translation": "適切な文脈で「けなす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disparate",
+    "meaning": "異種の",
+    "sentence": "The term \"disparate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「異種の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dispel",
+    "meaning": "払拭する",
+    "sentence": "It is important to understand how to dispel in the right context.",
+    "translation": "適切な文脈で「払拭する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Displace",
+    "meaning": "立ち退かせる",
+    "sentence": "It is important to understand how to displace in the right context.",
+    "translation": "適切な文脈で「立ち退かせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Dispute",
+    "meaning": "論争、異議を唱える",
+    "sentence": "It is important to understand how to dispute in the right context.",
+    "translation": "適切な文脈で「論争、異議を唱える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disrupt",
+    "meaning": "混乱させる",
+    "sentence": "It is important to understand how to disrupt in the right context.",
+    "translation": "適切な文脈で「混乱させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Disseminate",
+    "meaning": "広める",
+    "sentence": "It is important to understand how to disseminate in the right context.",
+    "translation": "適切な文脈で「広める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Dissent",
+    "meaning": "異議、異議を唱える",
+    "sentence": "It is important to understand how to dissent in the right context.",
+    "translation": "適切な文脈で「異議、異議を唱える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Distort",
+    "meaning": "ゆがめる",
+    "sentence": "It is important to understand how to distort in the right context.",
+    "translation": "適切な文脈で「ゆがめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Distraught",
+    "meaning": "取り乱した",
+    "sentence": "The term \"distraught\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「取り乱した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Diverse",
+    "meaning": "多様な",
+    "sentence": "The term \"diverse\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「多様な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Divert",
+    "meaning": "そらす、迂回させる",
+    "sentence": "It is important to understand how to divert in the right context.",
+    "translation": "適切な文脈で「そらす、迂回させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Divulge",
+    "meaning": "漏らす",
+    "sentence": "It is important to understand how to divulge in the right context.",
+    "translation": "適切な文脈で「漏らす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Docile",
+    "meaning": "従順な",
+    "sentence": "The term \"docile\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「従順な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dogmatic",
+    "meaning": "独断的な",
+    "sentence": "The term \"dogmatic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「独断的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dormant",
+    "meaning": "休眠中の",
+    "sentence": "The term \"dormant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「休眠中の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dubious",
+    "meaning": "疑わしい",
+    "sentence": "The term \"dubious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「疑わしい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Durable",
+    "meaning": "耐久性のある",
+    "sentence": "The term \"durable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「耐久性のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dwindle",
+    "meaning": "徐々に減る",
+    "sentence": "The term \"dwindle\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「徐々に減る」という意味の語が役立つ。"
+  },
+  {
+    "word": "Eccentric",
+    "meaning": "風変わりな",
+    "sentence": "The term \"eccentric\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「風変わりな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Eclipse",
+    "meaning": "覆い隠す、食",
+    "sentence": "It is important to understand how to eclipse in the right context.",
+    "translation": "適切な文脈で「覆い隠す、食」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ecological",
+    "meaning": "生態学的な",
+    "sentence": "The term \"ecological\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「生態学的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Economical",
+    "meaning": "経済的な、節約になる",
+    "sentence": "The term \"economical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「経済的な、節約になる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Elaborate",
+    "meaning": "精巧な、詳しく述べる",
+    "sentence": "It is important to understand how to elaborate in the right context.",
+    "translation": "適切な文脈で「精巧な、詳しく述べる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Elated",
+    "meaning": "大喜びした",
+    "sentence": "The term \"elated\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大喜びした」という意味の語が役立つ。"
+  },
+  {
+    "word": "Elicit",
+    "meaning": "引き出す",
+    "sentence": "It is important to understand how to elicit in the right context.",
+    "translation": "適切な文脈で「引き出す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Eliminate",
+    "meaning": "取り除く",
+    "sentence": "It is important to understand how to eliminate in the right context.",
+    "translation": "適切な文脈で「取り除く」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Eloquent",
+    "meaning": "雄弁な",
+    "sentence": "The term \"eloquent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「雄弁な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Elusive",
+    "meaning": "捉えどころのない",
+    "sentence": "The term \"elusive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「捉えどころのない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Embark",
+    "meaning": "着手する、乗船する",
+    "sentence": "The term \"embark\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「着手する、乗船する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Embellish",
+    "meaning": "飾り立てる",
+    "sentence": "It is important to understand how to embellish in the right context.",
+    "translation": "適切な文脈で「飾り立てる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Embrace",
+    "meaning": "受け入れる、抱きしめる",
+    "sentence": "It is important to understand how to embrace in the right context.",
+    "translation": "適切な文脈で「受け入れる、抱きしめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Emerge",
+    "meaning": "現れる",
+    "sentence": "It is important to understand how to emerge in the right context.",
+    "translation": "適切な文脈で「現れる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Eminent",
+    "meaning": "著名な",
+    "sentence": "The term \"eminent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「著名な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Empathy",
+    "meaning": "共感",
+    "sentence": "The term \"empathy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「共感」という意味の語が役立つ。"
+  },
+  {
+    "word": "Empirical",
+    "meaning": "経験的な、実証的な",
+    "sentence": "The term \"empirical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「経験的な、実証的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Empower",
+    "meaning": "権限を与える",
+    "sentence": "It is important to understand how to empower in the right context.",
+    "translation": "適切な文脈で「権限を与える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Encroach",
+    "meaning": "侵害する、侵入する",
+    "sentence": "It is important to understand how to encroach in the right context.",
+    "translation": "適切な文脈で「侵害する、侵入する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Endeavor",
+    "meaning": "努力する、努力",
+    "sentence": "It is important to understand how to endeavor in the right context.",
+    "translation": "適切な文脈で「努力する、努力」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Endorse",
+    "meaning": "支持する、裏書きする",
+    "sentence": "It is important to understand how to endorse in the right context.",
+    "translation": "適切な文脈で「支持する、裏書きする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Endure",
+    "meaning": "耐える",
+    "sentence": "It is important to understand how to endure in the right context.",
+    "translation": "適切な文脈で「耐える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Enforce",
+    "meaning": "施行する、強制する",
+    "sentence": "It is important to understand how to enforce in the right context.",
+    "translation": "適切な文脈で「施行する、強制する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Enhance",
+    "meaning": "高める",
+    "sentence": "It is important to understand how to enhance in the right context.",
+    "translation": "適切な文脈で「高める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Enigma",
+    "meaning": "謎",
+    "sentence": "The term \"enigma\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「謎」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enormous",
+    "meaning": "巨大な",
+    "sentence": "The term \"enormous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「巨大な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enrich",
+    "meaning": "豊かにする",
+    "sentence": "It is important to understand how to enrich in the right context.",
+    "translation": "適切な文脈で「豊かにする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Entail",
+    "meaning": "伴う、必要とする",
+    "sentence": "It is important to understand how to entail in the right context.",
+    "translation": "適切な文脈で「伴う、必要とする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Entice",
+    "meaning": "誘惑する",
+    "sentence": "It is important to understand how to entice in the right context.",
+    "translation": "適切な文脈で「誘惑する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Entrenched",
+    "meaning": "根深い",
+    "sentence": "The term \"entrenched\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「根深い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enumerate",
+    "meaning": "列挙する",
+    "sentence": "It is important to understand how to enumerate in the right context.",
+    "translation": "適切な文脈で「列挙する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Envision",
+    "meaning": "思い描く",
+    "sentence": "It is important to understand how to envision in the right context.",
+    "translation": "適切な文脈で「思い描く」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Epitome",
+    "meaning": "典型、縮図",
+    "sentence": "The term \"epitome\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「典型、縮図」という意味の語が役立つ。"
+  },
+  {
+    "word": "Equitable",
+    "meaning": "公平な",
+    "sentence": "The term \"equitable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「公平な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Eradicate",
+    "meaning": "根絶する",
+    "sentence": "It is important to understand how to eradicate in the right context.",
+    "translation": "適切な文脈で「根絶する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Erratic",
+    "meaning": "不規則な",
+    "sentence": "The term \"erratic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不規則な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Escalate",
+    "meaning": "拡大する、激化する",
+    "sentence": "It is important to understand how to escalate in the right context.",
+    "translation": "適切な文脈で「拡大する、激化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Eschew",
+    "meaning": "避ける",
+    "sentence": "It is important to understand how to eschew in the right context.",
+    "translation": "適切な文脈で「避ける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Essential",
+    "meaning": "不可欠な",
+    "sentence": "The term \"essential\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不可欠な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Establish",
+    "meaning": "確立する",
+    "sentence": "It is important to understand how to establish in the right context.",
+    "translation": "適切な文脈で「確立する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Esteem",
+    "meaning": "尊敬、尊重する",
+    "sentence": "It is important to understand how to esteem in the right context.",
+    "translation": "適切な文脈で「尊敬、尊重する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ethereal",
+    "meaning": "この世のものとは思えない",
+    "sentence": "The term \"ethereal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「この世のものとは思えない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ethical",
+    "meaning": "倫理的な",
+    "sentence": "The term \"ethical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「倫理的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Evade",
+    "meaning": "回避する",
+    "sentence": "It is important to understand how to evade in the right context.",
+    "translation": "適切な文脈で「回避する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Evaluate",
+    "meaning": "評価する",
+    "sentence": "It is important to understand how to evaluate in the right context.",
+    "translation": "適切な文脈で「評価する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Evoke",
+    "meaning": "呼び起こす",
+    "sentence": "It is important to understand how to evoke in the right context.",
+    "translation": "適切な文脈で「呼び起こす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exacerbate",
+    "meaning": "悪化させる",
+    "sentence": "It is important to understand how to exacerbate in the right context.",
+    "translation": "適切な文脈で「悪化させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exaggerate",
+    "meaning": "誇張する",
+    "sentence": "It is important to understand how to exaggerate in the right context.",
+    "translation": "適切な文脈で「誇張する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exalt",
+    "meaning": "称賛する、高める",
+    "sentence": "It is important to understand how to exalt in the right context.",
+    "translation": "適切な文脈で「称賛する、高める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exasperate",
+    "meaning": "いら立たせる",
+    "sentence": "It is important to understand how to exasperate in the right context.",
+    "translation": "適切な文脈で「いら立たせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exceed",
+    "meaning": "超える",
+    "sentence": "It is important to understand how to exceed in the right context.",
+    "translation": "適切な文脈で「超える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Excel",
+    "meaning": "優れる",
+    "sentence": "It is important to understand how to excel in the right context.",
+    "translation": "適切な文脈で「優れる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Excerpt",
+    "meaning": "抜粋",
+    "sentence": "The term \"excerpt\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抜粋」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exempt",
+    "meaning": "免除する、免除された",
+    "sentence": "It is important to understand how to exempt in the right context.",
+    "translation": "適切な文脈で「免除する、免除された」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exert",
+    "meaning": "行使する",
+    "sentence": "It is important to understand how to exert in the right context.",
+    "translation": "適切な文脈で「行使する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exhaust",
+    "meaning": "使い果たす、疲れさせる",
+    "sentence": "It is important to understand how to exhaust in the right context.",
+    "translation": "適切な文脈で「使い果たす、疲れさせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exhilarate",
+    "meaning": "興奮させる",
+    "sentence": "It is important to understand how to exhilarate in the right context.",
+    "translation": "適切な文脈で「興奮させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exhort",
+    "meaning": "強く勧める",
+    "sentence": "It is important to understand how to exhort in the right context.",
+    "translation": "適切な文脈で「強く勧める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exile",
+    "meaning": "追放、追放する",
+    "sentence": "It is important to understand how to exile in the right context.",
+    "translation": "適切な文脈で「追放、追放する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exonerate",
+    "meaning": "無罪にする",
+    "sentence": "It is important to understand how to exonerate in the right context.",
+    "translation": "適切な文脈で「無罪にする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Expedite",
+    "meaning": "促進する",
+    "sentence": "It is important to understand how to expedite in the right context.",
+    "translation": "適切な文脈で「促進する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Explicit",
+    "meaning": "明白な、明示的な",
+    "sentence": "The term \"explicit\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「明白な、明示的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exploit",
+    "meaning": "利用する、搾取する",
+    "sentence": "It is important to understand how to exploit in the right context.",
+    "translation": "適切な文脈で「利用する、搾取する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Exquisite",
+    "meaning": "精巧な、非常に美しい",
+    "sentence": "The term \"exquisite\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「精巧な、非常に美しい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Extinct",
+    "meaning": "絶滅した",
+    "sentence": "The term \"extinct\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「絶滅した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Extol",
+    "meaning": "褒めたたえる",
+    "sentence": "It is important to understand how to extol in the right context.",
+    "translation": "適切な文脈で「褒めたたえる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Extravagant",
+    "meaning": "浪費的な、過度な",
+    "sentence": "The term \"extravagant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「浪費的な、過度な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fabricate",
+    "meaning": "でっち上げる、製作する",
+    "sentence": "It is important to understand how to fabricate in the right context.",
+    "translation": "適切な文脈で「でっち上げる、製作する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Facilitate",
+    "meaning": "容易にする",
+    "sentence": "It is important to understand how to facilitate in the right context.",
+    "translation": "適切な文脈で「容易にする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Faction",
+    "meaning": "派閥",
+    "sentence": "The term \"faction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「派閥」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fallacy",
+    "meaning": "誤った考え、誤謬",
+    "sentence": "The term \"fallacy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「誤った考え、誤謬」という意味の語が役立つ。"
+  },
+  {
+    "word": "Famine",
+    "meaning": "飢饉",
+    "sentence": "The term \"famine\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「飢饉」という意味の語が役立つ。"
+  },
+  {
+    "word": "Feasible",
+    "meaning": "実行可能な",
+    "sentence": "The term \"feasible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「実行可能な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ferocious",
+    "meaning": "獰猛な",
+    "sentence": "The term \"ferocious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「獰猛な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fervent",
+    "meaning": "熱烈な",
+    "sentence": "The term \"fervent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「熱烈な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fickle",
+    "meaning": "移り気な",
+    "sentence": "The term \"fickle\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「移り気な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Flagrant",
+    "meaning": "目に余る",
+    "sentence": "The term \"flagrant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「目に余る」という意味の語が役立つ。"
+  },
+  {
+    "word": "Flaw",
+    "meaning": "欠陥",
+    "sentence": "The term \"flaw\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「欠陥」という意味の語が役立つ。"
+  },
+  {
+    "word": "Flourish",
+    "meaning": "繁栄する",
+    "sentence": "It is important to understand how to flourish in the right context.",
+    "translation": "適切な文脈で「繁栄する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Fluctuate",
+    "meaning": "変動する",
+    "sentence": "It is important to understand how to fluctuate in the right context.",
+    "translation": "適切な文脈で「変動する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Foresight",
+    "meaning": "先見の明",
+    "sentence": "The term \"foresight\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「先見の明」という意味の語が役立つ。"
+  },
+  {
+    "word": "Formidable",
+    "meaning": "手ごわい",
+    "sentence": "The term \"formidable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「手ごわい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fortify",
+    "meaning": "強化する",
+    "sentence": "It is important to understand how to fortify in the right context.",
+    "translation": "適切な文脈で「強化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Foster",
+    "meaning": "育む、促進する",
+    "sentence": "It is important to understand how to foster in the right context.",
+    "translation": "適切な文脈で「育む、促進する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Frantic",
+    "meaning": "取り乱した、必死の",
+    "sentence": "The term \"frantic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「取り乱した、必死の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fraudulent",
+    "meaning": "詐欺的な",
+    "sentence": "The term \"fraudulent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「詐欺的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Frugal",
+    "meaning": "倹約的な",
+    "sentence": "The term \"frugal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「倹約的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Futile",
+    "meaning": "無駄な",
+    "sentence": "The term \"futile\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無駄な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Galvanize",
+    "meaning": "奮い立たせる",
+    "sentence": "It is important to understand how to galvanize in the right context.",
+    "translation": "適切な文脈で「奮い立たせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Garner",
+    "meaning": "獲得する",
+    "sentence": "It is important to understand how to garner in the right context.",
+    "translation": "適切な文脈で「獲得する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Generic",
+    "meaning": "一般的な",
+    "sentence": "The term \"generic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「一般的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Genuine",
+    "meaning": "本物の、誠実な",
+    "sentence": "The term \"genuine\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「本物の、誠実な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Glimpse",
+    "meaning": "ちらりと見ること",
+    "sentence": "The term \"glimpse\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ちらりと見ること」という意味の語が役立つ。"
+  },
+  {
+    "word": "Gloomy",
+    "meaning": "陰気な",
+    "sentence": "The term \"gloomy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「陰気な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Gratify",
+    "meaning": "喜ばせる",
+    "sentence": "It is important to understand how to gratify in the right context.",
+    "translation": "適切な文脈で「喜ばせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Grievance",
+    "meaning": "不満、苦情",
+    "sentence": "The term \"grievance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不満、苦情」という意味の語が役立つ。"
+  },
+  {
+    "word": "Grim",
+    "meaning": "厳しい、陰気な",
+    "sentence": "The term \"grim\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「厳しい、陰気な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Gullible",
+    "meaning": "だまされやすい",
+    "sentence": "The term \"gullible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「だまされやすい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hamper",
+    "meaning": "妨げる",
+    "sentence": "It is important to understand how to hamper in the right context.",
+    "translation": "適切な文脈で「妨げる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Haphazard",
+    "meaning": "無計画な",
+    "sentence": "The term \"haphazard\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無計画な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Harass",
+    "meaning": "嫌がらせをする",
+    "sentence": "It is important to understand how to harass in the right context.",
+    "translation": "適切な文脈で「嫌がらせをする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Harness",
+    "meaning": "活用する、馬具",
+    "sentence": "It is important to understand how to harness in the right context.",
+    "translation": "適切な文脈で「活用する、馬具」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Haughty",
+    "meaning": "傲慢な",
+    "sentence": "The term \"haughty\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「傲慢な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hazardous",
+    "meaning": "危険な",
+    "sentence": "The term \"hazardous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「危険な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Heed",
+    "meaning": "注意を払う",
+    "sentence": "It is important to understand how to heed in the right context.",
+    "translation": "適切な文脈で「注意を払う」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Heinous",
+    "meaning": "極悪な",
+    "sentence": "The term \"heinous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「極悪な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hereditary",
+    "meaning": "遺伝性の",
+    "sentence": "The term \"hereditary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「遺伝性の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hesitate",
+    "meaning": "ためらう",
+    "sentence": "It is important to understand how to hesitate in the right context.",
+    "translation": "適切な文脈で「ためらう」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Hierarchy",
+    "meaning": "階層制度",
+    "sentence": "The term \"hierarchy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「階層制度」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hinder",
+    "meaning": "妨げる",
+    "sentence": "It is important to understand how to hinder in the right context.",
+    "translation": "適切な文脈で「妨げる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Hostile",
+    "meaning": "敵対的な",
+    "sentence": "The term \"hostile\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「敵対的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Humble",
+    "meaning": "謙虚な",
+    "sentence": "The term \"humble\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「謙虚な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hypocrisy",
+    "meaning": "偽善",
+    "sentence": "The term \"hypocrisy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「偽善」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hypothetical",
+    "meaning": "仮説上の",
+    "sentence": "The term \"hypothetical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「仮説上の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Imminent",
+    "meaning": "差し迫った",
+    "sentence": "The term \"imminent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「差し迫った」という意味の語が役立つ。"
+  },
+  {
+    "word": "Immune",
+    "meaning": "免疫のある",
+    "sentence": "The term \"immune\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「免疫のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impair",
+    "meaning": "損なう",
+    "sentence": "It is important to understand how to impair in the right context.",
+    "translation": "適切な文脈で「損なう」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Impartial",
+    "meaning": "公平な",
+    "sentence": "The term \"impartial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「公平な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impede",
+    "meaning": "妨げる",
+    "sentence": "It is important to understand how to impede in the right context.",
+    "translation": "適切な文脈で「妨げる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Imperative",
+    "meaning": "不可欠な、命令",
+    "sentence": "The term \"imperative\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不可欠な、命令」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impervious",
+    "meaning": "影響を受けない",
+    "sentence": "The term \"impervious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「影響を受けない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impetus",
+    "meaning": "推進力、刺激",
+    "sentence": "The term \"impetus\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「推進力、刺激」という意味の語が役立つ。"
+  },
+  {
+    "word": "Implement",
+    "meaning": "実行する、道具",
+    "sentence": "It is important to understand how to implement in the right context.",
+    "translation": "適切な文脈で「実行する、道具」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Implicit",
+    "meaning": "暗黙の",
+    "sentence": "The term \"implicit\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「暗黙の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impoverish",
+    "meaning": "貧しくする",
+    "sentence": "It is important to understand how to impoverish in the right context.",
+    "translation": "適切な文脈で「貧しくする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Inadvertent",
+    "meaning": "不注意による",
+    "sentence": "The term \"inadvertent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不注意による」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incentive",
+    "meaning": "動機、奨励策",
+    "sentence": "The term \"incentive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「動機、奨励策」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incessant",
+    "meaning": "絶え間ない",
+    "sentence": "The term \"incessant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「絶え間ない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incite",
+    "meaning": "扇動する",
+    "sentence": "It is important to understand how to incite in the right context.",
+    "translation": "適切な文脈で「扇動する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Inclination",
+    "meaning": "傾向、好み",
+    "sentence": "The term \"inclination\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「傾向、好み」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incompatible",
+    "meaning": "相容れない",
+    "sentence": "The term \"incompatible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「相容れない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Inconspicuous",
+    "meaning": "目立たない",
+    "sentence": "The term \"inconspicuous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「目立たない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incorporate",
+    "meaning": "組み込む",
+    "sentence": "It is important to understand how to incorporate in the right context.",
+    "translation": "適切な文脈で「組み込む」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Incredulous",
+    "meaning": "信じられない様子の",
+    "sentence": "The term \"incredulous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「信じられない様子の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Indict",
+    "meaning": "起訴する",
+    "sentence": "It is important to understand how to indict in the right context.",
+    "translation": "適切な文脈で「起訴する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Indifferent",
+    "meaning": "無関心な",
+    "sentence": "The term \"indifferent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無関心な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Indigenous",
+    "meaning": "先住の、固有の",
+    "sentence": "The term \"indigenous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「先住の、固有の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Indignant",
+    "meaning": "憤慨した",
+    "sentence": "The term \"indignant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「憤慨した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Indispensable",
+    "meaning": "不可欠な",
+    "sentence": "The term \"indispensable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不可欠な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Induce",
+    "meaning": "引き起こす、誘導する",
+    "sentence": "It is important to understand how to induce in the right context.",
+    "translation": "適切な文脈で「引き起こす、誘導する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Inept",
+    "meaning": "不器用な、無能な",
+    "sentence": "The term \"inept\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不器用な、無能な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Inert",
+    "meaning": "不活性の",
+    "sentence": "The term \"inert\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不活性の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Inevitable",
+    "meaning": "避けられない",
+    "sentence": "The term \"inevitable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「避けられない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Infamous",
+    "meaning": "悪名高い",
+    "sentence": "The term \"infamous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「悪名高い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Infer",
+    "meaning": "推論する",
+    "sentence": "It is important to understand how to infer in the right context.",
+    "translation": "適切な文脈で「推論する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Infiltrate",
+    "meaning": "潜入する",
+    "sentence": "It is important to understand how to infiltrate in the right context.",
+    "translation": "適切な文脈で「潜入する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Infringe",
+    "meaning": "侵害する",
+    "sentence": "It is important to understand how to infringe in the right context.",
+    "translation": "適切な文脈で「侵害する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ingenious",
+    "meaning": "独創的な",
+    "sentence": "The term \"ingenious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「独創的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Inherent",
+    "meaning": "本来備わった",
+    "sentence": "The term \"inherent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「本来備わった」という意味の語が役立つ。"
+  },
+  {
+    "word": "Inhibit",
+    "meaning": "抑制する",
+    "sentence": "It is important to understand how to inhibit in the right context.",
+    "translation": "適切な文脈で「抑制する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Innate",
+    "meaning": "生まれつきの",
+    "sentence": "The term \"innate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「生まれつきの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Innovate",
+    "meaning": "革新する",
+    "sentence": "It is important to understand how to innovate in the right context.",
+    "translation": "適切な文脈で「革新する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Insatiable",
+    "meaning": "飽くことを知らない",
+    "sentence": "The term \"insatiable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「飽くことを知らない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Insight",
+    "meaning": "洞察",
+    "sentence": "The term \"insight\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「洞察」という意味の語が役立つ。"
+  },
+  {
+    "word": "Insinuate",
+    "meaning": "ほのめかす",
+    "sentence": "It is important to understand how to insinuate in the right context.",
+    "translation": "適切な文脈で「ほのめかす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Insolent",
+    "meaning": "無礼な",
+    "sentence": "The term \"insolent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無礼な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Instigate",
+    "meaning": "扇動する",
+    "sentence": "It is important to understand how to instigate in the right context.",
+    "translation": "適切な文脈で「扇動する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Instill",
+    "meaning": "徐々に植え付ける",
+    "sentence": "It is important to understand how to instill in the right context.",
+    "translation": "適切な文脈で「徐々に植え付ける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Integral",
+    "meaning": "不可欠な、全体の",
+    "sentence": "The term \"integral\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不可欠な、全体の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Integrity",
+    "meaning": "誠実さ、完全性",
+    "sentence": "The term \"integrity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「誠実さ、完全性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Intensify",
+    "meaning": "強める",
+    "sentence": "It is important to understand how to intensify in the right context.",
+    "translation": "適切な文脈で「強める」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Intercept",
+    "meaning": "途中で遮る",
+    "sentence": "It is important to understand how to intercept in the right context.",
+    "translation": "適切な文脈で「途中で遮る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Interfere",
+    "meaning": "干渉する",
+    "sentence": "It is important to understand how to interfere in the right context.",
+    "translation": "適切な文脈で「干渉する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Intermittent",
+    "meaning": "断続的な",
+    "sentence": "The term \"intermittent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「断続的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Intricate",
+    "meaning": "複雑な",
+    "sentence": "The term \"intricate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「複雑な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Intrigue",
+    "meaning": "興味をそそる、陰謀",
+    "sentence": "The term \"intrigue\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「興味をそそる、陰謀」という意味の語が役立つ。"
+  },
+  {
+    "word": "Intrinsic",
+    "meaning": "本質的な",
+    "sentence": "The term \"intrinsic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「本質的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Intuitive",
+    "meaning": "直感的な",
+    "sentence": "The term \"intuitive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「直感的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Invalidate",
+    "meaning": "無効にする",
+    "sentence": "It is important to understand how to invalidate in the right context.",
+    "translation": "適切な文脈で「無効にする」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Invaluable",
+    "meaning": "非常に貴重な",
+    "sentence": "The term \"invaluable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「非常に貴重な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Invoke",
+    "meaning": "引き合いに出す、発動する",
+    "sentence": "It is important to understand how to invoke in the right context.",
+    "translation": "適切な文脈で「引き合いに出す、発動する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Irate",
+    "meaning": "激怒した",
+    "sentence": "The term \"irate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「激怒した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ironic",
+    "meaning": "皮肉な",
+    "sentence": "The term \"ironic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「皮肉な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Irrelevant",
+    "meaning": "無関係な",
+    "sentence": "The term \"irrelevant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無関係な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Jeopardize",
+    "meaning": "危険にさらす",
+    "sentence": "It is important to understand how to jeopardize in the right context.",
+    "translation": "適切な文脈で「危険にさらす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Judicious",
+    "meaning": "賢明な",
+    "sentence": "The term \"judicious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「賢明な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Juxtapose",
+    "meaning": "並置する",
+    "sentence": "It is important to understand how to juxtapose in the right context.",
+    "translation": "適切な文脈で「並置する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Keen",
+    "meaning": "鋭い、熱心な",
+    "sentence": "The term \"keen\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「鋭い、熱心な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Lament",
+    "meaning": "嘆く",
+    "sentence": "It is important to understand how to lament in the right context.",
+    "translation": "適切な文脈で「嘆く」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Latent",
+    "meaning": "潜在的な",
+    "sentence": "The term \"latent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「潜在的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Laud",
+    "meaning": "称賛する",
+    "sentence": "It is important to understand how to laud in the right context.",
+    "translation": "適切な文脈で「称賛する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Lavish",
+    "meaning": "ぜいたくな、惜しみなく与える",
+    "sentence": "It is important to understand how to lavish in the right context.",
+    "translation": "適切な文脈で「ぜいたくな、惜しみなく与える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Lethal",
+    "meaning": "致命的な",
+    "sentence": "The term \"lethal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「致命的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Liable",
+    "meaning": "責任がある、〜しがちな",
+    "sentence": "The term \"liable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「責任がある、〜しがちな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Liberal",
+    "meaning": "寛大な、自由主義の",
+    "sentence": "The term \"liberal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「寛大な、自由主義の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Linger",
+    "meaning": "長居する、残る",
+    "sentence": "It is important to understand how to linger in the right context.",
+    "translation": "適切な文脈で「長居する、残る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Lucrative",
+    "meaning": "利益の上がる",
+    "sentence": "The term \"lucrative\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「利益の上がる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ludicrous",
+    "meaning": "ばかげた",
+    "sentence": "The term \"ludicrous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ばかげた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Magnanimous",
+    "meaning": "寛大な",
+    "sentence": "The term \"magnanimous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「寛大な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Magnify",
+    "meaning": "拡大する",
+    "sentence": "It is important to understand how to magnify in the right context.",
+    "translation": "適切な文脈で「拡大する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Malicious",
+    "meaning": "悪意のある",
+    "sentence": "The term \"malicious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「悪意のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mandatory",
+    "meaning": "義務的な",
+    "sentence": "The term \"mandatory\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「義務的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Manifest",
+    "meaning": "明らかな、現れる",
+    "sentence": "The term \"manifest\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「明らかな、現れる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Manipulate",
+    "meaning": "巧みに操作する",
+    "sentence": "It is important to understand how to manipulate in the right context.",
+    "translation": "適切な文脈で「巧みに操作する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Marginal",
+    "meaning": "わずかな、周辺の",
+    "sentence": "The term \"marginal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「わずかな、周辺の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Meager",
+    "meaning": "乏しい",
+    "sentence": "The term \"meager\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「乏しい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mediate",
+    "meaning": "仲裁する",
+    "sentence": "It is important to understand how to mediate in the right context.",
+    "translation": "適切な文脈で「仲裁する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Melancholy",
+    "meaning": "憂鬱",
+    "sentence": "The term \"melancholy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「憂鬱」という意味の語が役立つ。"
+  },
+  {
+    "word": "Menace",
+    "meaning": "脅威",
+    "sentence": "The term \"menace\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「脅威」という意味の語が役立つ。"
+  },
+  {
+    "word": "Merciful",
+    "meaning": "慈悲深い",
+    "sentence": "The term \"merciful\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慈悲深い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Merit",
+    "meaning": "長所、価値",
+    "sentence": "The term \"merit\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「長所、価値」という意味の語が役立つ。"
+  },
+  {
+    "word": "Migrate",
+    "meaning": "移住する",
+    "sentence": "It is important to understand how to migrate in the right context.",
+    "translation": "適切な文脈で「移住する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Minimize",
+    "meaning": "最小化する",
+    "sentence": "It is important to understand how to minimize in the right context.",
+    "translation": "適切な文脈で「最小化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Misconception",
+    "meaning": "誤解",
+    "sentence": "The term \"misconception\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「誤解」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mitigate",
+    "meaning": "緩和する",
+    "sentence": "It is important to understand how to mitigate in the right context.",
+    "translation": "適切な文脈で「緩和する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Mobilize",
+    "meaning": "動員する",
+    "sentence": "It is important to understand how to mobilize in the right context.",
+    "translation": "適切な文脈で「動員する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Moderate",
+    "meaning": "適度な、和らげる",
+    "sentence": "It is important to understand how to moderate in the right context.",
+    "translation": "適切な文脈で「適度な、和らげる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Momentous",
+    "meaning": "重大な",
+    "sentence": "The term \"momentous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「重大な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Monotonous",
+    "meaning": "単調な",
+    "sentence": "The term \"monotonous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「単調な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Morale",
+    "meaning": "士気",
+    "sentence": "The term \"morale\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「士気」という意味の語が役立つ。"
+  },
+  {
+    "word": "Morbid",
+    "meaning": "病的な",
+    "sentence": "The term \"morbid\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「病的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mundane",
+    "meaning": "ありふれた",
+    "sentence": "The term \"mundane\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ありふれた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mutual",
+    "meaning": "相互の",
+    "sentence": "The term \"mutual\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「相互の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Naive",
+    "meaning": "世間知らずの",
+    "sentence": "The term \"naive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「世間知らずの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Negligent",
+    "meaning": "怠慢な",
+    "sentence": "The term \"negligent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「怠慢な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Negligible",
+    "meaning": "取るに足りない",
+    "sentence": "The term \"negligible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「取るに足りない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Notorious",
+    "meaning": "悪名高い",
+    "sentence": "The term \"notorious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「悪名高い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Novel",
+    "meaning": "斬新な、小説",
+    "sentence": "The term \"novel\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「斬新な、小説」という意味の語が役立つ。"
+  },
+  {
+    "word": "Nurture",
+    "meaning": "育てる",
+    "sentence": "It is important to understand how to nurture in the right context.",
+    "translation": "適切な文脈で「育てる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Oblige",
+    "meaning": "義務づける",
+    "sentence": "It is important to understand how to oblige in the right context.",
+    "translation": "適切な文脈で「義務づける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Obscure",
+    "meaning": "不明瞭な、隠す",
+    "sentence": "It is important to understand how to obscure in the right context.",
+    "translation": "適切な文脈で「不明瞭な、隠す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Obsolete",
+    "meaning": "時代遅れの",
+    "sentence": "The term \"obsolete\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「時代遅れの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Obstinate",
+    "meaning": "頑固な",
+    "sentence": "The term \"obstinate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「頑固な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Obstruct",
+    "meaning": "妨げる",
+    "sentence": "It is important to understand how to obstruct in the right context.",
+    "translation": "適切な文脈で「妨げる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Obtain",
+    "meaning": "得る",
+    "sentence": "It is important to understand how to obtain in the right context.",
+    "translation": "適切な文脈で「得る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ominous",
+    "meaning": "不吉な",
+    "sentence": "The term \"ominous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不吉な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Omit",
+    "meaning": "省く",
+    "sentence": "It is important to understand how to omit in the right context.",
+    "translation": "適切な文脈で「省く」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Opaque",
+    "meaning": "不透明な",
+    "sentence": "The term \"opaque\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不透明な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Oppress",
+    "meaning": "抑圧する",
+    "sentence": "It is important to understand how to oppress in the right context.",
+    "translation": "適切な文脈で「抑圧する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ordeal",
+    "meaning": "厳しい試練",
+    "sentence": "The term \"ordeal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「厳しい試練」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ornate",
+    "meaning": "装飾の多い",
+    "sentence": "The term \"ornate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「装飾の多い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Outbreak",
+    "meaning": "突発的発生",
+    "sentence": "The term \"outbreak\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「突発的発生」という意味の語が役立つ。"
+  },
+  {
+    "word": "Outdated",
+    "meaning": "時代遅れの",
+    "sentence": "The term \"outdated\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「時代遅れの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Outweigh",
+    "meaning": "上回る",
+    "sentence": "It is important to understand how to outweigh in the right context.",
+    "translation": "適切な文脈で「上回る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Overhaul",
+    "meaning": "徹底的に見直す",
+    "sentence": "It is important to understand how to overhaul in the right context.",
+    "translation": "適切な文脈で「徹底的に見直す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Overlook",
+    "meaning": "見落とす、大目に見る",
+    "sentence": "It is important to understand how to overlook in the right context.",
+    "translation": "適切な文脈で「見落とす、大目に見る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Paramount",
+    "meaning": "最重要の",
+    "sentence": "The term \"paramount\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「最重要の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Paradox",
+    "meaning": "逆説",
+    "sentence": "The term \"paradox\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「逆説」という意味の語が役立つ。"
+  },
+  {
+    "word": "Paralyze",
+    "meaning": "麻痺させる",
+    "sentence": "It is important to understand how to paralyze in the right context.",
+    "translation": "適切な文脈で「麻痺させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Parched",
+    "meaning": "からからに乾いた",
+    "sentence": "The term \"parched\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「からからに乾いた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Partisan",
+    "meaning": "党派的な",
+    "sentence": "The term \"partisan\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「党派的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Patronize",
+    "meaning": "ひいきにする、見下した態度を取る",
+    "sentence": "The term \"patronize\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ひいきにする、見下した態度を取る」という意味の語が役立つ。"
+  },
+  {
+    "word": "Peculiar",
+    "meaning": "奇妙な、特有の",
+    "sentence": "The term \"peculiar\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「奇妙な、特有の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Perceive",
+    "meaning": "知覚する",
+    "sentence": "It is important to understand how to perceive in the right context.",
+    "translation": "適切な文脈で「知覚する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Peril",
+    "meaning": "危険",
+    "sentence": "The term \"peril\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「危険」という意味の語が役立つ。"
+  },
+  {
+    "word": "Perish",
+    "meaning": "死ぬ、滅びる",
+    "sentence": "It is important to understand how to perish in the right context.",
+    "translation": "適切な文脈で「死ぬ、滅びる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Perpetuate",
+    "meaning": "永続させる",
+    "sentence": "It is important to understand how to perpetuate in the right context.",
+    "translation": "適切な文脈で「永続させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Perplex",
+    "meaning": "困惑させる",
+    "sentence": "It is important to understand how to perplex in the right context.",
+    "translation": "適切な文脈で「困惑させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Persevere",
+    "meaning": "辛抱強く続ける",
+    "sentence": "It is important to understand how to persevere in the right context.",
+    "translation": "適切な文脈で「辛抱強く続ける」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Pertinent",
+    "meaning": "関連のある",
+    "sentence": "The term \"pertinent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「関連のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Peruse",
+    "meaning": "じっくり読む",
+    "sentence": "It is important to understand how to peruse in the right context.",
+    "translation": "適切な文脈で「じっくり読む」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Pessimistic",
+    "meaning": "悲観的な",
+    "sentence": "The term \"pessimistic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「悲観的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Phenomenon",
+    "meaning": "現象",
+    "sentence": "The term \"phenomenon\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「現象」という意味の語が役立つ。"
+  },
+  {
+    "word": "Pivotal",
+    "meaning": "極めて重要な",
+    "sentence": "The term \"pivotal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「極めて重要な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Plausible",
+    "meaning": "もっともらしい",
+    "sentence": "The term \"plausible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「もっともらしい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Plead",
+    "meaning": "懇願する、申し立てる",
+    "sentence": "It is important to understand how to plead in the right context.",
+    "translation": "適切な文脈で「懇願する、申し立てる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Plight",
+    "meaning": "苦境",
+    "sentence": "The term \"plight\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「苦境」という意味の語が役立つ。"
+  },
+  {
+    "word": "Plummet",
+    "meaning": "急落する",
+    "sentence": "It is important to understand how to plummet in the right context.",
+    "translation": "適切な文脈で「急落する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Poignant",
+    "meaning": "胸に迫る",
+    "sentence": "The term \"poignant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「胸に迫る」という意味の語が役立つ。"
+  },
+  {
+    "word": "Polarize",
+    "meaning": "二極化させる",
+    "sentence": "It is important to understand how to polarize in the right context.",
+    "translation": "適切な文脈で「二極化させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Ponder",
+    "meaning": "熟考する",
+    "sentence": "It is important to understand how to ponder in the right context.",
+    "translation": "適切な文脈で「熟考する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Portray",
+    "meaning": "描写する",
+    "sentence": "It is important to understand how to portray in the right context.",
+    "translation": "適切な文脈で「描写する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Postpone",
+    "meaning": "延期する",
+    "sentence": "It is important to understand how to postpone in the right context.",
+    "translation": "適切な文脈で「延期する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Potent",
+    "meaning": "強力な",
+    "sentence": "The term \"potent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強力な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Precarious",
+    "meaning": "不安定な、危険な",
+    "sentence": "The term \"precarious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不安定な、危険な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Precede",
+    "meaning": "先行する",
+    "sentence": "It is important to understand how to precede in the right context.",
+    "translation": "適切な文脈で「先行する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Precise",
+    "meaning": "正確な",
+    "sentence": "The term \"precise\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「正確な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Predicament",
+    "meaning": "苦境",
+    "sentence": "The term \"predicament\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「苦境」という意味の語が役立つ。"
+  },
+  {
+    "word": "Predominant",
+    "meaning": "支配的な",
+    "sentence": "The term \"predominant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「支配的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Prejudice",
+    "meaning": "偏見",
+    "sentence": "The term \"prejudice\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「偏見」という意味の語が役立つ。"
+  },
+  {
+    "word": "Preliminary",
+    "meaning": "予備的な",
+    "sentence": "The term \"preliminary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「予備的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Premature",
+    "meaning": "時期尚早の",
+    "sentence": "The term \"premature\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「時期尚早の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Presume",
+    "meaning": "推定する",
+    "sentence": "It is important to understand how to presume in the right context.",
+    "translation": "適切な文脈で「推定する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Prevail",
+    "meaning": "勝る、広く行き渡る",
+    "sentence": "It is important to understand how to prevail in the right context.",
+    "translation": "適切な文脈で「勝る、広く行き渡る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Prevalent",
+    "meaning": "広く見られる",
+    "sentence": "The term \"prevalent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「広く見られる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Prevention",
+    "meaning": "予防",
+    "sentence": "The term \"prevention\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「予防」という意味の語が役立つ。"
+  },
+  {
+    "word": "Pristine",
+    "meaning": "汚れのない",
+    "sentence": "The term \"pristine\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「汚れのない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Proclaim",
+    "meaning": "宣言する",
+    "sentence": "It is important to understand how to proclaim in the right context.",
+    "translation": "適切な文脈で「宣言する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Procure",
+    "meaning": "調達する",
+    "sentence": "It is important to understand how to procure in the right context.",
+    "translation": "適切な文脈で「調達する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Prodigious",
+    "meaning": "並外れた",
+    "sentence": "The term \"prodigious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「並外れた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Profound",
+    "meaning": "深い、重大な",
+    "sentence": "The term \"profound\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「深い、重大な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Prohibit",
+    "meaning": "禁止する",
+    "sentence": "It is important to understand how to prohibit in the right context.",
+    "translation": "適切な文脈で「禁止する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Proliferate",
+    "meaning": "急増する",
+    "sentence": "It is important to understand how to proliferate in the right context.",
+    "translation": "適切な文脈で「急増する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Prominent",
+    "meaning": "著名な、目立つ",
+    "sentence": "The term \"prominent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「著名な、目立つ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Prompt",
+    "meaning": "促す、迅速な",
+    "sentence": "It is important to understand how to prompt in the right context.",
+    "translation": "適切な文脈で「促す、迅速な」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Propagate",
+    "meaning": "広める、繁殖させる",
+    "sentence": "It is important to understand how to propagate in the right context.",
+    "translation": "適切な文脈で「広める、繁殖させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Propel",
+    "meaning": "推進する",
+    "sentence": "It is important to understand how to propel in the right context.",
+    "translation": "適切な文脈で「推進する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Prosper",
+    "meaning": "繁栄する",
+    "sentence": "It is important to understand how to prosper in the right context.",
+    "translation": "適切な文脈で「繁栄する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Provoke",
+    "meaning": "挑発する、引き起こす",
+    "sentence": "It is important to understand how to provoke in the right context.",
+    "translation": "適切な文脈で「挑発する、引き起こす」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Prudent",
+    "meaning": "慎重な、賢明な",
+    "sentence": "The term \"prudent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慎重な、賢明な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Punitive",
+    "meaning": "懲罰的な",
+    "sentence": "The term \"punitive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「懲罰的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Quell",
+    "meaning": "鎮圧する",
+    "sentence": "It is important to understand how to quell in the right context.",
+    "translation": "適切な文脈で「鎮圧する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Query",
+    "meaning": "質問、疑問を呈する",
+    "sentence": "It is important to understand how to query in the right context.",
+    "translation": "適切な文脈で「質問、疑問を呈する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Quintessential",
+    "meaning": "典型的な",
+    "sentence": "The term \"quintessential\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「典型的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Radical",
+    "meaning": "根本的な、急進的な",
+    "sentence": "The term \"radical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「根本的な、急進的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ramification",
+    "meaning": "派生的な影響",
+    "sentence": "The term \"ramification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「派生的な影響」という意味の語が役立つ。"
+  },
+  {
+    "word": "Rampant",
+    "meaning": "はびこっている",
+    "sentence": "The term \"rampant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「はびこっている」という意味の語が役立つ。"
+  },
+  {
+    "word": "Rationale",
+    "meaning": "根拠",
+    "sentence": "The term \"rationale\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「根拠」という意味の語が役立つ。"
+  },
+  {
+    "word": "Reassure",
+    "meaning": "安心させる",
+    "sentence": "It is important to understand how to reassure in the right context.",
+    "translation": "適切な文脈で「安心させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Recede",
+    "meaning": "後退する",
+    "sentence": "It is important to understand how to recede in the right context.",
+    "translation": "適切な文脈で「後退する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Reconcile",
+    "meaning": "和解させる、調和させる",
+    "sentence": "It is important to understand how to reconcile in the right context.",
+    "translation": "適切な文脈で「和解させる、調和させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Rectify",
+    "meaning": "是正する",
+    "sentence": "It is important to understand how to rectify in the right context.",
+    "translation": "適切な文脈で「是正する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Recur",
+    "meaning": "再発する",
+    "sentence": "It is important to understand how to recur in the right context.",
+    "translation": "適切な文脈で「再発する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Redeem",
+    "meaning": "取り戻す、償う",
+    "sentence": "It is important to understand how to redeem in the right context.",
+    "translation": "適切な文脈で「取り戻す、償う」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Redundant",
+    "meaning": "余分な、不要な",
+    "sentence": "The term \"redundant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「余分な、不要な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Refine",
+    "meaning": "改良する、精製する",
+    "sentence": "It is important to understand how to refine in the right context.",
+    "translation": "適切な文脈で「改良する、精製する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Refrain",
+    "meaning": "控える",
+    "sentence": "It is important to understand how to refrain in the right context.",
+    "translation": "適切な文脈で「控える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Refute",
+    "meaning": "論破する",
+    "sentence": "It is important to understand how to refute in the right context.",
+    "translation": "適切な文脈で「論破する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Regulate",
+    "meaning": "規制する",
+    "sentence": "It is important to understand how to regulate in the right context.",
+    "translation": "適切な文脈で「規制する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Reinforce",
+    "meaning": "強化する",
+    "sentence": "It is important to understand how to reinforce in the right context.",
+    "translation": "適切な文脈で「強化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Reiterate",
+    "meaning": "繰り返して述べる",
+    "sentence": "It is important to understand how to reiterate in the right context.",
+    "translation": "適切な文脈で「繰り返して述べる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Rejuvenate",
+    "meaning": "若返らせる",
+    "sentence": "It is important to understand how to rejuvenate in the right context.",
+    "translation": "適切な文脈で「若返らせる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Relentless",
+    "meaning": "容赦のない",
+    "sentence": "The term \"relentless\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「容赦のない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Reluctant",
+    "meaning": "気が進まない",
+    "sentence": "The term \"reluctant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「気が進まない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Remedy",
+    "meaning": "治療法、是正する",
+    "sentence": "It is important to understand how to remedy in the right context.",
+    "translation": "適切な文脈で「治療法、是正する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Remorse",
+    "meaning": "後悔、自責の念",
+    "sentence": "The term \"remorse\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「後悔、自責の念」という意味の語が役立つ。"
+  },
+  {
+    "word": "Renounce",
+    "meaning": "放棄する",
+    "sentence": "It is important to understand how to renounce in the right context.",
+    "translation": "適切な文脈で「放棄する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Repercussion",
+    "meaning": "反響、悪影響",
+    "sentence": "The term \"repercussion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「反響、悪影響」という意味の語が役立つ。"
+  },
+  {
+    "word": "Replenish",
+    "meaning": "補充する",
+    "sentence": "It is important to understand how to replenish in the right context.",
+    "translation": "適切な文脈で「補充する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Repress",
+    "meaning": "抑圧する",
+    "sentence": "It is important to understand how to repress in the right context.",
+    "translation": "適切な文脈で「抑圧する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Reproach",
+    "meaning": "非難する",
+    "sentence": "It is important to understand how to reproach in the right context.",
+    "translation": "適切な文脈で「非難する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Repudiate",
+    "meaning": "拒絶する、否認する",
+    "sentence": "It is important to understand how to repudiate in the right context.",
+    "translation": "適切な文脈で「拒絶する、否認する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Resilient",
+    "meaning": "回復力のある",
+    "sentence": "The term \"resilient\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「回復力のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Resolute",
+    "meaning": "断固とした",
+    "sentence": "The term \"resolute\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「断固とした」という意味の語が役立つ。"
+  },
+  {
+    "word": "Restrain",
+    "meaning": "抑える",
+    "sentence": "It is important to understand how to restrain in the right context.",
+    "translation": "適切な文脈で「抑える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Resume",
+    "meaning": "再開する",
+    "sentence": "It is important to understand how to resume in the right context.",
+    "translation": "適切な文脈で「再開する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Retain",
+    "meaning": "保持する",
+    "sentence": "It is important to understand how to retain in the right context.",
+    "translation": "適切な文脈で「保持する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Retaliate",
+    "meaning": "報復する",
+    "sentence": "It is important to understand how to retaliate in the right context.",
+    "translation": "適切な文脈で「報復する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Retrieve",
+    "meaning": "取り戻す",
+    "sentence": "It is important to understand how to retrieve in the right context.",
+    "translation": "適切な文脈で「取り戻す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Revere",
+    "meaning": "崇敬する",
+    "sentence": "It is important to understand how to revere in the right context.",
+    "translation": "適切な文脈で「崇敬する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Revise",
+    "meaning": "改訂する",
+    "sentence": "It is important to understand how to revise in the right context.",
+    "translation": "適切な文脈で「改訂する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Revoke",
+    "meaning": "取り消す",
+    "sentence": "It is important to understand how to revoke in the right context.",
+    "translation": "適切な文脈で「取り消す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Rigorous",
+    "meaning": "厳格な、徹底した",
+    "sentence": "The term \"rigorous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「厳格な、徹底した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Robust",
+    "meaning": "頑健な",
+    "sentence": "The term \"robust\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「頑健な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Rudimentary",
+    "meaning": "初歩的な",
+    "sentence": "The term \"rudimentary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「初歩的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ruthless",
+    "meaning": "無慈悲な",
+    "sentence": "The term \"ruthless\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無慈悲な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sabotage",
+    "meaning": "妨害工作、妨害する",
+    "sentence": "It is important to understand how to sabotage in the right context.",
+    "translation": "適切な文脈で「妨害工作、妨害する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Salient",
+    "meaning": "顕著な",
+    "sentence": "The term \"salient\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「顕著な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sanction",
+    "meaning": "制裁、承認",
+    "sentence": "The term \"sanction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「制裁、承認」という意味の語が役立つ。"
+  },
+  {
+    "word": "Saturate",
+    "meaning": "浸透させる、飽和させる",
+    "sentence": "It is important to understand how to saturate in the right context.",
+    "translation": "適切な文脈で「浸透させる、飽和させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Scrutinize",
+    "meaning": "綿密に調べる",
+    "sentence": "It is important to understand how to scrutinize in the right context.",
+    "translation": "適切な文脈で「綿密に調べる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Seclude",
+    "meaning": "隔離する",
+    "sentence": "It is important to understand how to seclude in the right context.",
+    "translation": "適切な文脈で「隔離する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Secular",
+    "meaning": "世俗的な",
+    "sentence": "The term \"secular\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「世俗的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sedentary",
+    "meaning": "座りがちな",
+    "sentence": "The term \"sedentary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「座りがちな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Segregate",
+    "meaning": "分離する",
+    "sentence": "It is important to understand how to segregate in the right context.",
+    "translation": "適切な文脈で「分離する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Seize",
+    "meaning": "つかむ、押収する",
+    "sentence": "It is important to understand how to seize in the right context.",
+    "translation": "適切な文脈で「つかむ、押収する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Serene",
+    "meaning": "穏やかな",
+    "sentence": "The term \"serene\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「穏やかな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Severe",
+    "meaning": "厳しい",
+    "sentence": "The term \"severe\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「厳しい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Shrewd",
+    "meaning": "抜け目のない",
+    "sentence": "The term \"shrewd\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抜け目のない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Skeptical",
+    "meaning": "懐疑的な",
+    "sentence": "The term \"skeptical\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「懐疑的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sluggish",
+    "meaning": "鈍い、不活発な",
+    "sentence": "The term \"sluggish\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「鈍い、不活発な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Soar",
+    "meaning": "急上昇する",
+    "sentence": "It is important to understand how to soar in the right context.",
+    "translation": "適切な文脈で「急上昇する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Solicit",
+    "meaning": "求める、勧誘する",
+    "sentence": "It is important to understand how to solicit in the right context.",
+    "translation": "適切な文脈で「求める、勧誘する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Solidarity",
+    "meaning": "連帯",
+    "sentence": "The term \"solidarity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「連帯」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sophisticated",
+    "meaning": "洗練された、高度な",
+    "sentence": "The term \"sophisticated\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「洗練された、高度な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sparse",
+    "meaning": "まばらな",
+    "sentence": "The term \"sparse\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「まばらな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Speculate",
+    "meaning": "推測する、投機する",
+    "sentence": "It is important to understand how to speculate in the right context.",
+    "translation": "適切な文脈で「推測する、投機する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Spontaneous",
+    "meaning": "自発的な",
+    "sentence": "The term \"spontaneous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「自発的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sporadic",
+    "meaning": "散発的な",
+    "sentence": "The term \"sporadic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「散発的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Stagnant",
+    "meaning": "停滞した",
+    "sentence": "The term \"stagnant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「停滞した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Staunch",
+    "meaning": "断固とした、忠実な",
+    "sentence": "The term \"staunch\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「断固とした、忠実な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Stifle",
+    "meaning": "抑える、窒息させる",
+    "sentence": "It is important to understand how to stifle in the right context.",
+    "translation": "適切な文脈で「抑える、窒息させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Stipulate",
+    "meaning": "規定する",
+    "sentence": "It is important to understand how to stipulate in the right context.",
+    "translation": "適切な文脈で「規定する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Strenuous",
+    "meaning": "激しい、骨の折れる",
+    "sentence": "The term \"strenuous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「激しい、骨の折れる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Stringent",
+    "meaning": "厳格な",
+    "sentence": "The term \"stringent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「厳格な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Subdue",
+    "meaning": "制圧する",
+    "sentence": "It is important to understand how to subdue in the right context.",
+    "translation": "適切な文脈で「制圧する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Subordinate",
+    "meaning": "部下、従属した",
+    "sentence": "The term \"subordinate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「部下、従属した」という意味の語が役立つ。"
+  },
+  {
+    "word": "Subsequent",
+    "meaning": "その後の",
+    "sentence": "The term \"subsequent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「その後の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Subsidize",
+    "meaning": "補助金を出す",
+    "sentence": "It is important to understand how to subsidize in the right context.",
+    "translation": "適切な文脈で「補助金を出す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Substantiate",
+    "meaning": "立証する",
+    "sentence": "It is important to understand how to substantiate in the right context.",
+    "translation": "適切な文脈で「立証する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Subtle",
+    "meaning": "微妙な",
+    "sentence": "The term \"subtle\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「微妙な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Succumb",
+    "meaning": "屈する",
+    "sentence": "It is important to understand how to succumb in the right context.",
+    "translation": "適切な文脈で「屈する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Suffice",
+    "meaning": "十分である",
+    "sentence": "It is important to understand how to suffice in the right context.",
+    "translation": "適切な文脈で「十分である」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Summon",
+    "meaning": "呼び出す",
+    "sentence": "It is important to understand how to summon in the right context.",
+    "translation": "適切な文脈で「呼び出す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Superficial",
+    "meaning": "表面的な",
+    "sentence": "The term \"superficial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「表面的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Suppress",
+    "meaning": "抑圧する",
+    "sentence": "It is important to understand how to suppress in the right context.",
+    "translation": "適切な文脈で「抑圧する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Surpass",
+    "meaning": "上回る",
+    "sentence": "It is important to understand how to surpass in the right context.",
+    "translation": "適切な文脈で「上回る」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Surveillance",
+    "meaning": "監視",
+    "sentence": "The term \"surveillance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「監視」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sustain",
+    "meaning": "維持する、支える",
+    "sentence": "It is important to understand how to sustain in the right context.",
+    "translation": "適切な文脈で「維持する、支える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Synergy",
+    "meaning": "相乗効果",
+    "sentence": "The term \"synergy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「相乗効果」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tacit",
+    "meaning": "暗黙の",
+    "sentence": "The term \"tacit\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「暗黙の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tangible",
+    "meaning": "具体的な、触れられる",
+    "sentence": "The term \"tangible\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「具体的な、触れられる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tarnish",
+    "meaning": "傷つける、変色させる",
+    "sentence": "It is important to understand how to tarnish in the right context.",
+    "translation": "適切な文脈で「傷つける、変色させる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Tedious",
+    "meaning": "退屈な、骨の折れる",
+    "sentence": "The term \"tedious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「退屈な、骨の折れる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tenacious",
+    "meaning": "粘り強い",
+    "sentence": "The term \"tenacious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「粘り強い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tentative",
+    "meaning": "暫定的な",
+    "sentence": "The term \"tentative\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「暫定的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Testify",
+    "meaning": "証言する",
+    "sentence": "It is important to understand how to testify in the right context.",
+    "translation": "適切な文脈で「証言する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Thrive",
+    "meaning": "繁栄する",
+    "sentence": "It is important to understand how to thrive in the right context.",
+    "translation": "適切な文脈で「繁栄する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Thwart",
+    "meaning": "阻止する",
+    "sentence": "It is important to understand how to thwart in the right context.",
+    "translation": "適切な文脈で「阻止する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Timely",
+    "meaning": "時宜を得た",
+    "sentence": "The term \"timely\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「時宜を得た」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tolerate",
+    "meaning": "容認する、耐える",
+    "sentence": "It is important to understand how to tolerate in the right context.",
+    "translation": "適切な文脈で「容認する、耐える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Torment",
+    "meaning": "苦しめる",
+    "sentence": "It is important to understand how to torment in the right context.",
+    "translation": "適切な文脈で「苦しめる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Toxic",
+    "meaning": "有毒な",
+    "sentence": "The term \"toxic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「有毒な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tranquil",
+    "meaning": "穏やかな",
+    "sentence": "The term \"tranquil\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「穏やかな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Transcend",
+    "meaning": "超越する",
+    "sentence": "It is important to understand how to transcend in the right context.",
+    "translation": "適切な文脈で「超越する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Transient",
+    "meaning": "一時的な",
+    "sentence": "The term \"transient\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「一時的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Transparent",
+    "meaning": "透明な、明白な",
+    "sentence": "The term \"transparent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「透明な、明白な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Treacherous",
+    "meaning": "裏切りの、危険な",
+    "sentence": "The term \"treacherous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「裏切りの、危険な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tremendous",
+    "meaning": "途方もない",
+    "sentence": "The term \"tremendous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「途方もない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Trivial",
+    "meaning": "ささいな",
+    "sentence": "The term \"trivial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ささいな」という意味の語が役立つ。"
+  },
+  {
+    "word": "Turmoil",
+    "meaning": "混乱",
+    "sentence": "The term \"turmoil\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「混乱」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ubiquity",
+    "meaning": "遍在",
+    "sentence": "The term \"ubiquity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「遍在」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ultimate",
+    "meaning": "最終的な",
+    "sentence": "The term \"ultimate\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「最終的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Unanimous",
+    "meaning": "満場一致の",
+    "sentence": "The term \"unanimous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「満場一致の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Unprecedented",
+    "meaning": "前例のない",
+    "sentence": "The term \"unprecedented\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「前例のない」という意味の語が役立つ。"
+  },
+  {
+    "word": "Unravel",
+    "meaning": "解明する、ほどく",
+    "sentence": "It is important to understand how to unravel in the right context.",
+    "translation": "適切な文脈で「解明する、ほどく」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Uphold",
+    "meaning": "支持する、維持する",
+    "sentence": "It is important to understand how to uphold in the right context.",
+    "translation": "適切な文脈で「支持する、維持する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Urge",
+    "meaning": "強く促す",
+    "sentence": "It is important to understand how to urge in the right context.",
+    "translation": "適切な文脈で「強く促す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Utilize",
+    "meaning": "利用する",
+    "sentence": "It is important to understand how to utilize in the right context.",
+    "translation": "適切な文脈で「利用する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Utter",
+    "meaning": "完全な、発する",
+    "sentence": "It is important to understand how to utter in the right context.",
+    "translation": "適切な文脈で「完全な、発する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Vague",
+    "meaning": "曖昧な",
+    "sentence": "The term \"vague\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「曖昧な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Validate",
+    "meaning": "妥当性を確認する",
+    "sentence": "It is important to understand how to validate in the right context.",
+    "translation": "適切な文脈で「妥当性を確認する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Vanish",
+    "meaning": "消える",
+    "sentence": "It is important to understand how to vanish in the right context.",
+    "translation": "適切な文脈で「消える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Versatile",
+    "meaning": "多才な、多用途の",
+    "sentence": "The term \"versatile\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「多才な、多用途の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Viable",
+    "meaning": "実行可能な",
+    "sentence": "The term \"viable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「実行可能な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Vigilant",
+    "meaning": "警戒している",
+    "sentence": "The term \"vigilant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「警戒している」という意味の語が役立つ。"
+  },
+  {
+    "word": "Vindicate",
+    "meaning": "正しさを証明する",
+    "sentence": "It is important to understand how to vindicate in the right context.",
+    "translation": "適切な文脈で「正しさを証明する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Violate",
+    "meaning": "違反する",
+    "sentence": "It is important to understand how to violate in the right context.",
+    "translation": "適切な文脈で「違反する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Virtue",
+    "meaning": "美徳",
+    "sentence": "The term \"virtue\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「美徳」という意味の語が役立つ。"
+  },
+  {
+    "word": "Volatile",
+    "meaning": "不安定な、揮発性の",
+    "sentence": "The term \"volatile\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不安定な、揮発性の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Vulnerable",
+    "meaning": "傷つきやすい",
+    "sentence": "The term \"vulnerable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「傷つきやすい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Wane",
+    "meaning": "衰える",
+    "sentence": "It is important to understand how to wane in the right context.",
+    "translation": "適切な文脈で「衰える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Wary",
+    "meaning": "用心深い",
+    "sentence": "The term \"wary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「用心深い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Widespread",
+    "meaning": "広範囲の",
+    "sentence": "The term \"widespread\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「広範囲の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Withstand",
+    "meaning": "耐える",
+    "sentence": "It is important to understand how to withstand in the right context.",
+    "translation": "適切な文脈で「耐える」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Worsen",
+    "meaning": "悪化する",
+    "sentence": "It is important to understand how to worsen in the right context.",
+    "translation": "適切な文脈で「悪化する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Yield",
+    "meaning": "生み出す、屈する",
+    "sentence": "It is important to understand how to yield in the right context.",
+    "translation": "適切な文脈で「生み出す、屈する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Zealous",
+    "meaning": "熱心な",
+    "sentence": "The term \"zealous\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「熱心な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abolition",
+    "meaning": "廃止",
+    "sentence": "The term \"abolition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「廃止」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accumulation",
+    "meaning": "蓄積",
+    "sentence": "The term \"accumulation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「蓄積」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adaptation",
+    "meaning": "適応、改作",
+    "sentence": "The term \"adaptation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「適応、改作」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adjournment",
+    "meaning": "休会、延期",
+    "sentence": "The term \"adjournment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「休会、延期」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adornment",
+    "meaning": "装飾",
+    "sentence": "The term \"adornment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「装飾」という意味の語が役立つ。"
+  },
+  {
+    "word": "Agitation",
+    "meaning": "動揺、扇動",
+    "sentence": "The term \"agitation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「動揺、扇動」という意味の語が役立つ。"
+  },
+  {
+    "word": "Allegation",
+    "meaning": "申し立て",
+    "sentence": "The term \"allegation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「申し立て」という意味の語が役立つ。"
+  },
+  {
+    "word": "Allocation",
+    "meaning": "配分",
+    "sentence": "The term \"allocation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「配分」という意味の語が役立つ。"
+  },
+  {
+    "word": "Alteration",
+    "meaning": "変更",
+    "sentence": "The term \"alteration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「変更」という意味の語が役立つ。"
+  },
+  {
+    "word": "Amendment",
+    "meaning": "修正、改正",
+    "sentence": "The term \"amendment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「修正、改正」という意味の語が役立つ。"
+  },
+  {
+    "word": "Annexation",
+    "meaning": "併合",
+    "sentence": "The term \"annexation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「併合」という意味の語が役立つ。"
+  },
+  {
+    "word": "Annotation",
+    "meaning": "注釈",
+    "sentence": "The term \"annotation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「注釈」という意味の語が役立つ。"
+  },
+  {
+    "word": "Anticipation",
+    "meaning": "予期",
+    "sentence": "The term \"anticipation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「予期」という意味の語が役立つ。"
+  },
+  {
+    "word": "Apprehension",
+    "meaning": "不安、逮捕",
+    "sentence": "The term \"apprehension\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不安、逮捕」という意味の語が役立つ。"
+  },
+  {
+    "word": "Articulation",
+    "meaning": "明瞭な表現",
+    "sentence": "The term \"articulation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「明瞭な表現」という意味の語が役立つ。"
+  },
+  {
+    "word": "Assessment",
+    "meaning": "評価",
+    "sentence": "The term \"assessment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「評価」という意味の語が役立つ。"
+  },
+  {
+    "word": "Assimilation",
+    "meaning": "同化",
+    "sentence": "The term \"assimilation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「同化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Attainment",
+    "meaning": "達成",
+    "sentence": "The term \"attainment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「達成」という意味の語が役立つ。"
+  },
+  {
+    "word": "Augmentation",
+    "meaning": "増加",
+    "sentence": "The term \"augmentation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「増加」という意味の語が役立つ。"
+  },
+  {
+    "word": "Banishment",
+    "meaning": "追放",
+    "sentence": "The term \"banishment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「追放」という意味の語が役立つ。"
+  },
+  {
+    "word": "Bolstering",
+    "meaning": "強化",
+    "sentence": "The term \"bolstering\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Cherishing",
+    "meaning": "大切にすること",
+    "sentence": "The term \"cherishing\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大切にすること」という意味の語が役立つ。"
+  },
+  {
+    "word": "Clarification",
+    "meaning": "明確化",
+    "sentence": "The term \"clarification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「明確化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Coercion",
+    "meaning": "強制",
+    "sentence": "The term \"coercion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強制」という意味の語が役立つ。"
+  },
+  {
+    "word": "Collaboration",
+    "meaning": "協力",
+    "sentence": "The term \"collaboration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「協力」という意味の語が役立つ。"
+  },
+  {
+    "word": "Commemoration",
+    "meaning": "記念",
+    "sentence": "The term \"commemoration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「記念」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compulsion",
+    "meaning": "強制、衝動",
+    "sentence": "The term \"compulsion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強制、衝動」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compensation",
+    "meaning": "補償",
+    "sentence": "The term \"compensation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「補償」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compilation",
+    "meaning": "編集、編纂",
+    "sentence": "The term \"compilation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「編集、編纂」という意味の語が役立つ。"
+  },
+  {
+    "word": "Concealment",
+    "meaning": "隠蔽",
+    "sentence": "The term \"concealment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「隠蔽」という意味の語が役立つ。"
+  },
+  {
+    "word": "Concession",
+    "meaning": "譲歩",
+    "sentence": "The term \"concession\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「譲歩」という意味の語が役立つ。"
+  },
+  {
+    "word": "Condemnation",
+    "meaning": "非難",
+    "sentence": "The term \"condemnation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「非難」という意味の語が役立つ。"
+  },
+  {
+    "word": "Conference",
+    "meaning": "会議",
+    "sentence": "The term \"conference\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「会議」という意味の語が役立つ。"
+  },
+  {
+    "word": "Confinement",
+    "meaning": "監禁、制限",
+    "sentence": "The term \"confinement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「監禁、制限」という意味の語が役立つ。"
+  },
+  {
+    "word": "Conformity",
+    "meaning": "適合、順応",
+    "sentence": "The term \"conformity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「適合、順応」という意味の語が役立つ。"
+  },
+  {
+    "word": "Confrontation",
+    "meaning": "対立",
+    "sentence": "The term \"confrontation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「対立」という意味の語が役立つ。"
+  },
+  {
+    "word": "Conservation",
+    "meaning": "保全",
+    "sentence": "The term \"conservation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「保全」という意味の語が役立つ。"
+  },
+  {
+    "word": "Constraint",
+    "meaning": "制約",
+    "sentence": "The term \"constraint\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「制約」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contemplation",
+    "meaning": "熟考",
+    "sentence": "The term \"contemplation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「熟考」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contradiction",
+    "meaning": "矛盾",
+    "sentence": "The term \"contradiction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「矛盾」という意味の語が役立つ。"
+  },
+  {
+    "word": "Convention",
+    "meaning": "大会、慣習",
+    "sentence": "The term \"convention\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大会、慣習」という意味の語が役立つ。"
+  },
+  {
+    "word": "Convergence",
+    "meaning": "収束",
+    "sentence": "The term \"convergence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「収束」という意味の語が役立つ。"
+  },
+  {
+    "word": "Corrosion",
+    "meaning": "腐食",
+    "sentence": "The term \"corrosion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「腐食」という意味の語が役立つ。"
+  },
+  {
+    "word": "Craving",
+    "meaning": "渇望",
+    "sentence": "The term \"craving\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「渇望」という意味の語が役立つ。"
+  },
+  {
+    "word": "Culmination",
+    "meaning": "頂点、最高潮",
+    "sentence": "The term \"culmination\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「頂点、最高潮」という意味の語が役立つ。"
+  },
+  {
+    "word": "Curbing",
+    "meaning": "抑制",
+    "sentence": "The term \"curbing\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑制」という意味の語が役立つ。"
+  },
+  {
+    "word": "Deception",
+    "meaning": "欺瞞",
+    "sentence": "The term \"deception\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「欺瞞」という意味の語が役立つ。"
+  },
+  {
+    "word": "Decipherment",
+    "meaning": "解読",
+    "sentence": "The term \"decipherment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「解読」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dedication",
+    "meaning": "献身",
+    "sentence": "The term \"dedication\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「献身」という意味の語が役立つ。"
+  },
+  {
+    "word": "Deduction",
+    "meaning": "控除、推論",
+    "sentence": "The term \"deduction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「控除、推論」という意味の語が役立つ。"
+  },
+  {
+    "word": "Defamation",
+    "meaning": "名誉毀損",
+    "sentence": "The term \"defamation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「名誉毀損」という意味の語が役立つ。"
+  },
+  {
+    "word": "Degradation",
+    "meaning": "劣化",
+    "sentence": "The term \"degradation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「劣化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Delineation",
+    "meaning": "描写",
+    "sentence": "The term \"delineation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「描写」という意味の語が役立つ。"
+  },
+  {
+    "word": "Demolition",
+    "meaning": "解体",
+    "sentence": "The term \"demolition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「解体」という意味の語が役立つ。"
+  },
+  {
+    "word": "Denunciation",
+    "meaning": "非難",
+    "sentence": "The term \"denunciation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「非難」という意味の語が役立つ。"
+  },
+  {
+    "word": "Depletion",
+    "meaning": "枯渇",
+    "sentence": "The term \"depletion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「枯渇」という意味の語が役立つ。"
+  },
+  {
+    "word": "Deployment",
+    "meaning": "配備",
+    "sentence": "The term \"deployment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「配備」という意味の語が役立つ。"
+  },
+  {
+    "word": "Deterrence",
+    "meaning": "抑止",
+    "sentence": "The term \"deterrence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑止」という意味の語が役立つ。"
+  },
+  {
+    "word": "Deterioration",
+    "meaning": "悪化",
+    "sentence": "The term \"deterioration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「悪化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Devastation",
+    "meaning": "壊滅",
+    "sentence": "The term \"devastation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「壊滅」という意味の語が役立つ。"
+  },
+  {
+    "word": "Diagnosis",
+    "meaning": "診断",
+    "sentence": "The term \"diagnosis\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「診断」という意味の語が役立つ。"
+  },
+  {
+    "word": "Diminution",
+    "meaning": "減少",
+    "sentence": "The term \"diminution\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「減少」という意味の語が役立つ。"
+  },
+  {
+    "word": "Disclosure",
+    "meaning": "開示",
+    "sentence": "The term \"disclosure\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「開示」という意味の語が役立つ。"
+  },
+  {
+    "word": "Discrimination",
+    "meaning": "差別、識別",
+    "sentence": "The term \"discrimination\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「差別、識別」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dismantling",
+    "meaning": "解体",
+    "sentence": "The term \"dismantling\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「解体」という意味の語が役立つ。"
+  },
+  {
+    "word": "Displacement",
+    "meaning": "移動、立ち退き",
+    "sentence": "The term \"displacement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「移動、立ち退き」という意味の語が役立つ。"
+  },
+  {
+    "word": "Disruption",
+    "meaning": "混乱",
+    "sentence": "The term \"disruption\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「混乱」という意味の語が役立つ。"
+  },
+  {
+    "word": "Dissemination",
+    "meaning": "普及",
+    "sentence": "The term \"dissemination\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「普及」という意味の語が役立つ。"
+  },
+  {
+    "word": "Distortion",
+    "meaning": "ゆがみ",
+    "sentence": "The term \"distortion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ゆがみ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Diversion",
+    "meaning": "転用、迂回",
+    "sentence": "The term \"diversion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「転用、迂回」という意味の語が役立つ。"
+  },
+  {
+    "word": "Embarkation",
+    "meaning": "乗船",
+    "sentence": "The term \"embarkation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「乗船」という意味の語が役立つ。"
+  },
+  {
+    "word": "Embellishment",
+    "meaning": "装飾",
+    "sentence": "The term \"embellishment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「装飾」という意味の語が役立つ。"
+  },
+  {
+    "word": "Emergence",
+    "meaning": "出現",
+    "sentence": "The term \"emergence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「出現」という意味の語が役立つ。"
+  },
+  {
+    "word": "Empowerment",
+    "meaning": "権限付与",
+    "sentence": "The term \"empowerment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「権限付与」という意味の語が役立つ。"
+  },
+  {
+    "word": "Encroachment",
+    "meaning": "侵害",
+    "sentence": "The term \"encroachment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「侵害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Endorsement",
+    "meaning": "支持、裏書き",
+    "sentence": "The term \"endorsement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「支持、裏書き」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enforcement",
+    "meaning": "施行",
+    "sentence": "The term \"enforcement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「施行」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enhancement",
+    "meaning": "向上",
+    "sentence": "The term \"enhancement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「向上」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enrichment",
+    "meaning": "充実、濃縮",
+    "sentence": "The term \"enrichment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「充実、濃縮」という意味の語が役立つ。"
+  },
+  {
+    "word": "Enumeration",
+    "meaning": "列挙",
+    "sentence": "The term \"enumeration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「列挙」という意味の語が役立つ。"
+  },
+  {
+    "word": "Eradication",
+    "meaning": "根絶",
+    "sentence": "The term \"eradication\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「根絶」という意味の語が役立つ。"
+  },
+  {
+    "word": "Escalation",
+    "meaning": "激化",
+    "sentence": "The term \"escalation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「激化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Establishment",
+    "meaning": "設立",
+    "sentence": "The term \"establishment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「設立」という意味の語が役立つ。"
+  },
+  {
+    "word": "Evaluation",
+    "meaning": "評価",
+    "sentence": "The term \"evaluation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「評価」という意味の語が役立つ。"
+  },
+  {
+    "word": "Evocation",
+    "meaning": "喚起",
+    "sentence": "The term \"evocation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「喚起」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exaggeration",
+    "meaning": "誇張",
+    "sentence": "The term \"exaggeration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「誇張」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exemption",
+    "meaning": "免除",
+    "sentence": "The term \"exemption\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「免除」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exertion",
+    "meaning": "努力、行使",
+    "sentence": "The term \"exertion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「努力、行使」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exhortation",
+    "meaning": "強い勧め",
+    "sentence": "The term \"exhortation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強い勧め」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exoneration",
+    "meaning": "免責",
+    "sentence": "The term \"exoneration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「免責」という意味の語が役立つ。"
+  },
+  {
+    "word": "Expedition",
+    "meaning": "遠征、迅速さ",
+    "sentence": "The term \"expedition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「遠征、迅速さ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Exploitation",
+    "meaning": "利用、搾取",
+    "sentence": "The term \"exploitation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「利用、搾取」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fabrication",
+    "meaning": "製作、捏造",
+    "sentence": "The term \"fabrication\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「製作、捏造」という意味の語が役立つ。"
+  },
+  {
+    "word": "Facilitation",
+    "meaning": "促進",
+    "sentence": "The term \"facilitation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「促進」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fluctuation",
+    "meaning": "変動",
+    "sentence": "The term \"fluctuation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「変動」という意味の語が役立つ。"
+  },
+  {
+    "word": "Fortification",
+    "meaning": "強化、防御施設",
+    "sentence": "The term \"fortification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強化、防御施設」という意味の語が役立つ。"
+  },
+  {
+    "word": "Galvanization",
+    "meaning": "刺激、亜鉛めっき",
+    "sentence": "The term \"galvanization\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「刺激、亜鉛めっき」という意味の語が役立つ。"
+  },
+  {
+    "word": "Gratification",
+    "meaning": "満足",
+    "sentence": "The term \"gratification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「満足」という意味の語が役立つ。"
+  },
+  {
+    "word": "Harassment",
+    "meaning": "嫌がらせ",
+    "sentence": "The term \"harassment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「嫌がらせ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Hindrance",
+    "meaning": "妨害",
+    "sentence": "The term \"hindrance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「妨害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impairment",
+    "meaning": "機能障害",
+    "sentence": "The term \"impairment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「機能障害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Impediment",
+    "meaning": "障害",
+    "sentence": "The term \"impediment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「障害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Implementation",
+    "meaning": "実施",
+    "sentence": "The term \"implementation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「実施」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incitement",
+    "meaning": "扇動",
+    "sentence": "The term \"incitement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「扇動」という意味の語が役立つ。"
+  },
+  {
+    "word": "Incorporation",
+    "meaning": "法人化、組み込み",
+    "sentence": "The term \"incorporation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「法人化、組み込み」という意味の語が役立つ。"
+  },
+  {
+    "word": "Indictment",
+    "meaning": "起訴",
+    "sentence": "The term \"indictment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「起訴」という意味の語が役立つ。"
+  },
+  {
+    "word": "Induction",
+    "meaning": "誘発、導入",
+    "sentence": "The term \"induction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「誘発、導入」という意味の語が役立つ。"
+  },
+  {
+    "word": "Infiltration",
+    "meaning": "浸透",
+    "sentence": "The term \"infiltration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「浸透」という意味の語が役立つ。"
+  },
+  {
+    "word": "Infringement",
+    "meaning": "侵害",
+    "sentence": "The term \"infringement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「侵害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Inhibition",
+    "meaning": "抑制",
+    "sentence": "The term \"inhibition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑制」という意味の語が役立つ。"
+  },
+  {
+    "word": "Innovation",
+    "meaning": "革新",
+    "sentence": "The term \"innovation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「革新」という意味の語が役立つ。"
+  },
+  {
+    "word": "Instigation",
+    "meaning": "扇動",
+    "sentence": "The term \"instigation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「扇動」という意味の語が役立つ。"
+  },
+  {
+    "word": "Intensification",
+    "meaning": "強化",
+    "sentence": "The term \"intensification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「強化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Interception",
+    "meaning": "傍受、遮断",
+    "sentence": "The term \"interception\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「傍受、遮断」という意味の語が役立つ。"
+  },
+  {
+    "word": "Interference",
+    "meaning": "干渉",
+    "sentence": "The term \"interference\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「干渉」という意味の語が役立つ。"
+  },
+  {
+    "word": "Invalidation",
+    "meaning": "無効化",
+    "sentence": "The term \"invalidation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「無効化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Invocation",
+    "meaning": "発動、祈願",
+    "sentence": "The term \"invocation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「発動、祈願」という意味の語が役立つ。"
+  },
+  {
+    "word": "Jeopardy",
+    "meaning": "危険",
+    "sentence": "The term \"jeopardy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「危険」という意味の語が役立つ。"
+  },
+  {
+    "word": "Juxtaposition",
+    "meaning": "並置",
+    "sentence": "The term \"juxtaposition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「並置」という意味の語が役立つ。"
+  },
+  {
+    "word": "Magnification",
+    "meaning": "拡大",
+    "sentence": "The term \"magnification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「拡大」という意味の語が役立つ。"
+  },
+  {
+    "word": "Manipulation",
+    "meaning": "操作",
+    "sentence": "The term \"manipulation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「操作」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mediation",
+    "meaning": "仲裁",
+    "sentence": "The term \"mediation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「仲裁」という意味の語が役立つ。"
+  },
+  {
+    "word": "Migration",
+    "meaning": "移住",
+    "sentence": "The term \"migration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「移住」という意味の語が役立つ。"
+  },
+  {
+    "word": "Minimization",
+    "meaning": "最小化",
+    "sentence": "The term \"minimization\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「最小化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mitigation",
+    "meaning": "緩和",
+    "sentence": "The term \"mitigation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「緩和」という意味の語が役立つ。"
+  },
+  {
+    "word": "Mobilization",
+    "meaning": "動員",
+    "sentence": "The term \"mobilization\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「動員」という意味の語が役立つ。"
+  },
+  {
+    "word": "Moderation",
+    "meaning": "節度",
+    "sentence": "The term \"moderation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「節度」という意味の語が役立つ。"
+  },
+  {
+    "word": "Nurturing",
+    "meaning": "育成",
+    "sentence": "The term \"nurturing\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「育成」という意味の語が役立つ。"
+  },
+  {
+    "word": "Obligation",
+    "meaning": "義務",
+    "sentence": "The term \"obligation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「義務」という意味の語が役立つ。"
+  },
+  {
+    "word": "Obstruction",
+    "meaning": "妨害",
+    "sentence": "The term \"obstruction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「妨害」という意味の語が役立つ。"
+  },
+  {
+    "word": "Oppression",
+    "meaning": "抑圧",
+    "sentence": "The term \"oppression\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑圧」という意味の語が役立つ。"
+  },
+  {
+    "word": "Paralysis",
+    "meaning": "麻痺",
+    "sentence": "The term \"paralysis\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「麻痺」という意味の語が役立つ。"
+  },
+  {
+    "word": "Perception",
+    "meaning": "知覚",
+    "sentence": "The term \"perception\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「知覚」という意味の語が役立つ。"
+  },
+  {
+    "word": "Perpetuation",
+    "meaning": "永続化",
+    "sentence": "The term \"perpetuation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「永続化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Perseverance",
+    "meaning": "忍耐",
+    "sentence": "The term \"perseverance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「忍耐」という意味の語が役立つ。"
+  },
+  {
+    "word": "Polarization",
+    "meaning": "二極化",
+    "sentence": "The term \"polarization\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「二極化」という意味の語が役立つ。"
+  },
+  {
+    "word": "Portrayal",
+    "meaning": "描写",
+    "sentence": "The term \"portrayal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「描写」という意味の語が役立つ。"
+  },
+  {
+    "word": "Postponement",
+    "meaning": "延期",
+    "sentence": "The term \"postponement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「延期」という意味の語が役立つ。"
+  },
+  {
+    "word": "Prejudicial",
+    "meaning": "不利益をもたらす",
+    "sentence": "The term \"prejudicial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不利益をもたらす」という意味の語が役立つ。"
+  },
+  {
+    "word": "Presumption",
+    "meaning": "推定",
+    "sentence": "The term \"presumption\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「推定」という意味の語が役立つ。"
+  },
+  {
+    "word": "Proclamation",
+    "meaning": "宣言",
+    "sentence": "The term \"proclamation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「宣言」という意味の語が役立つ。"
+  },
+  {
+    "word": "Procurement",
+    "meaning": "調達",
+    "sentence": "The term \"procurement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「調達」という意味の語が役立つ。"
+  },
+  {
+    "word": "Prohibition",
+    "meaning": "禁止",
+    "sentence": "The term \"prohibition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「禁止」という意味の語が役立つ。"
+  },
+  {
+    "word": "Proliferation",
+    "meaning": "急増",
+    "sentence": "The term \"proliferation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「急増」という意味の語が役立つ。"
+  },
+  {
+    "word": "Propagation",
+    "meaning": "伝播",
+    "sentence": "The term \"propagation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「伝播」という意味の語が役立つ。"
+  },
+  {
+    "word": "Provocation",
+    "meaning": "挑発",
+    "sentence": "The term \"provocation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「挑発」という意味の語が役立つ。"
+  },
+  {
+    "word": "Reassurance",
+    "meaning": "安心させること",
+    "sentence": "The term \"reassurance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「安心させること」という意味の語が役立つ。"
+  },
+  {
+    "word": "Reconciliation",
+    "meaning": "和解",
+    "sentence": "The term \"reconciliation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「和解」という意味の語が役立つ。"
+  },
+  {
+    "word": "Rectification",
+    "meaning": "是正",
+    "sentence": "The term \"rectification\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「是正」という意味の語が役立つ。"
+  },
+  {
+    "word": "Recurrence",
+    "meaning": "再発",
+    "sentence": "The term \"recurrence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「再発」という意味の語が役立つ。"
+  },
+  {
+    "word": "Redemption",
+    "meaning": "償還、救済",
+    "sentence": "The term \"redemption\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「償還、救済」という意味の語が役立つ。"
+  },
+  {
+    "word": "Refinement",
+    "meaning": "改良",
+    "sentence": "The term \"refinement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「改良」という意味の語が役立つ。"
+  },
+  {
+    "word": "Refutation",
+    "meaning": "反論",
+    "sentence": "The term \"refutation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「反論」という意味の語が役立つ。"
+  },
+  {
+    "word": "Regulation",
+    "meaning": "規制",
+    "sentence": "The term \"regulation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「規制」という意味の語が役立つ。"
+  },
+  {
+    "word": "Reinforcement",
+    "meaning": "補強",
+    "sentence": "The term \"reinforcement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「補強」という意味の語が役立つ。"
+  },
+  {
+    "word": "Reiteration",
+    "meaning": "繰り返し",
+    "sentence": "The term \"reiteration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「繰り返し」という意味の語が役立つ。"
+  },
+  {
+    "word": "Rejuvenation",
+    "meaning": "若返り",
+    "sentence": "The term \"rejuvenation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「若返り」という意味の語が役立つ。"
+  },
+  {
+    "word": "Renunciation",
+    "meaning": "放棄",
+    "sentence": "The term \"renunciation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「放棄」という意味の語が役立つ。"
+  },
+  {
+    "word": "Replenishment",
+    "meaning": "補充",
+    "sentence": "The term \"replenishment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「補充」という意味の語が役立つ。"
+  },
+  {
+    "word": "Repression",
+    "meaning": "抑圧",
+    "sentence": "The term \"repression\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑圧」という意味の語が役立つ。"
+  },
+  {
+    "word": "Repudiation",
+    "meaning": "拒絶",
+    "sentence": "The term \"repudiation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「拒絶」という意味の語が役立つ。"
+  },
+  {
+    "word": "Restraint",
+    "meaning": "抑制",
+    "sentence": "The term \"restraint\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑制」という意味の語が役立つ。"
+  },
+  {
+    "word": "Retaliation",
+    "meaning": "報復",
+    "sentence": "The term \"retaliation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「報復」という意味の語が役立つ。"
+  },
+  {
+    "word": "Retrieval",
+    "meaning": "回収",
+    "sentence": "The term \"retrieval\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「回収」という意味の語が役立つ。"
+  },
+  {
+    "word": "Revision",
+    "meaning": "改訂",
+    "sentence": "The term \"revision\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「改訂」という意味の語が役立つ。"
+  },
+  {
+    "word": "Revocation",
+    "meaning": "取り消し",
+    "sentence": "The term \"revocation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「取り消し」という意味の語が役立つ。"
+  },
+  {
+    "word": "Saturation",
+    "meaning": "飽和",
+    "sentence": "The term \"saturation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「飽和」という意味の語が役立つ。"
+  },
+  {
+    "word": "Scrutiny",
+    "meaning": "精査",
+    "sentence": "The term \"scrutiny\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「精査」という意味の語が役立つ。"
+  },
+  {
+    "word": "Seclusion",
+    "meaning": "隔離",
+    "sentence": "The term \"seclusion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「隔離」という意味の語が役立つ。"
+  },
+  {
+    "word": "Segregation",
+    "meaning": "分離",
+    "sentence": "The term \"segregation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「分離」という意味の語が役立つ。"
+  },
+  {
+    "word": "Solicitation",
+    "meaning": "勧誘",
+    "sentence": "The term \"solicitation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「勧誘」という意味の語が役立つ。"
+  },
+  {
+    "word": "Speculation",
+    "meaning": "推測、投機",
+    "sentence": "The term \"speculation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「推測、投機」という意味の語が役立つ。"
+  },
+  {
+    "word": "Stipulation",
+    "meaning": "規定",
+    "sentence": "The term \"stipulation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「規定」という意味の語が役立つ。"
+  },
+  {
+    "word": "Subjugation",
+    "meaning": "征服",
+    "sentence": "The term \"subjugation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「征服」という意味の語が役立つ。"
+  },
+  {
+    "word": "Subsidy",
+    "meaning": "補助金",
+    "sentence": "The term \"subsidy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「補助金」という意味の語が役立つ。"
+  },
+  {
+    "word": "Substantiation",
+    "meaning": "立証",
+    "sentence": "The term \"substantiation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「立証」という意味の語が役立つ。"
+  },
+  {
+    "word": "Suppression",
+    "meaning": "抑圧",
+    "sentence": "The term \"suppression\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「抑圧」という意味の語が役立つ。"
+  },
+  {
+    "word": "Sustainability",
+    "meaning": "持続可能性",
+    "sentence": "The term \"sustainability\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「持続可能性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tarnishing",
+    "meaning": "変色、名誉の毀損",
+    "sentence": "The term \"tarnishing\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「変色、名誉の毀損」という意味の語が役立つ。"
+  },
+  {
+    "word": "Testimony",
+    "meaning": "証言",
+    "sentence": "The term \"testimony\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「証言」という意味の語が役立つ。"
+  },
+  {
+    "word": "Tolerance",
+    "meaning": "寛容、耐性",
+    "sentence": "The term \"tolerance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「寛容、耐性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Transcendence",
+    "meaning": "超越",
+    "sentence": "The term \"transcendence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「超越」という意味の語が役立つ。"
+  },
+  {
+    "word": "Validation",
+    "meaning": "検証",
+    "sentence": "The term \"validation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「検証」という意味の語が役立つ。"
+  },
+  {
+    "word": "Vindication",
+    "meaning": "正当性の証明",
+    "sentence": "The term \"vindication\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「正当性の証明」という意味の語が役立つ。"
+  },
+  {
+    "word": "Violation",
+    "meaning": "違反",
+    "sentence": "The term \"violation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「違反」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abdicate",
+    "meaning": "退位する、放棄する",
+    "sentence": "It is important to understand how to abdicate in the right context.",
+    "translation": "適切な文脈で「退位する、放棄する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Abject",
+    "meaning": "悲惨な、卑屈な",
+    "sentence": "The term \"abject\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「悲惨な、卑屈な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abominable",
+    "meaning": "忌まわしい",
+    "sentence": "The term \"abominable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「忌まわしい」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abrasive",
+    "meaning": "研磨性の、無礼な",
+    "sentence": "The term \"abrasive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「研磨性の、無礼な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Absurd",
+    "meaning": "ばかげた",
+    "sentence": "The term \"absurd\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「ばかげた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Abundance",
+    "meaning": "豊富",
+    "sentence": "The term \"abundance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「豊富」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accelerate",
+    "meaning": "加速する",
+    "sentence": "It is important to understand how to accelerate in the right context.",
+    "translation": "適切な文脈で「加速する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Accessory",
+    "meaning": "付属品、共犯者",
+    "sentence": "The term \"accessory\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「付属品、共犯者」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accomplishment",
+    "meaning": "業績、達成",
+    "sentence": "The term \"accomplishment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「業績、達成」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accord",
+    "meaning": "一致、協定",
+    "sentence": "The term \"accord\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「一致、協定」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accountability",
+    "meaning": "説明責任",
+    "sentence": "The term \"accountability\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「説明責任」という意味の語が役立つ。"
+  },
+  {
+    "word": "Accuracy",
+    "meaning": "正確さ",
+    "sentence": "The term \"accuracy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「正確さ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Acquisition",
+    "meaning": "獲得、買収",
+    "sentence": "The term \"acquisition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「獲得、買収」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adaptable",
+    "meaning": "適応力のある",
+    "sentence": "The term \"adaptable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「適応力のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Addiction",
+    "meaning": "依存症",
+    "sentence": "The term \"addiction\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「依存症」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adherence",
+    "meaning": "順守",
+    "sentence": "The term \"adherence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「順守」という意味の語が役立つ。"
+  },
+  {
+    "word": "Admirable",
+    "meaning": "称賛に値する",
+    "sentence": "The term \"admirable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「称賛に値する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Admonition",
+    "meaning": "忠告、叱責",
+    "sentence": "The term \"admonition\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「忠告、叱責」という意味の語が役立つ。"
+  },
+  {
+    "word": "Advancement",
+    "meaning": "進歩",
+    "sentence": "The term \"advancement\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「進歩」という意味の語が役立つ。"
+  },
+  {
+    "word": "Adversarial",
+    "meaning": "敵対的な",
+    "sentence": "The term \"adversarial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「敵対的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Affection",
+    "meaning": "愛情",
+    "sentence": "The term \"affection\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「愛情」という意味の語が役立つ。"
+  },
+  {
+    "word": "Affirm",
+    "meaning": "断言する",
+    "sentence": "It is important to understand how to affirm in the right context.",
+    "translation": "適切な文脈で「断言する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Aggression",
+    "meaning": "攻撃性",
+    "sentence": "The term \"aggression\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「攻撃性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Agricultural",
+    "meaning": "農業の",
+    "sentence": "The term \"agricultural\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「農業の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Alarming",
+    "meaning": "憂慮すべき",
+    "sentence": "The term \"alarming\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「憂慮すべき」という意味の語が役立つ。"
+  },
+  {
+    "word": "Alienation",
+    "meaning": "疎外",
+    "sentence": "The term \"alienation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「疎外」という意味の語が役立つ。"
+  },
+  {
+    "word": "Allegiance",
+    "meaning": "忠誠",
+    "sentence": "The term \"allegiance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「忠誠」という意味の語が役立つ。"
+  },
+  {
+    "word": "Alleviation",
+    "meaning": "軽減",
+    "sentence": "The term \"alleviation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「軽減」という意味の語が役立つ。"
+  },
+  {
+    "word": "Allot",
+    "meaning": "割り当てる",
+    "sentence": "It is important to understand how to allot in the right context.",
+    "translation": "適切な文脈で「割り当てる」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Altercation",
+    "meaning": "口論",
+    "sentence": "The term \"altercation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「口論」という意味の語が役立つ。"
+  },
+  {
+    "word": "Ambivalence",
+    "meaning": "相反する感情",
+    "sentence": "The term \"ambivalence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「相反する感情」という意味の語が役立つ。"
+  },
+  {
+    "word": "Amiability",
+    "meaning": "愛想のよさ",
+    "sentence": "The term \"amiability\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「愛想のよさ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Amplify",
+    "meaning": "増幅する",
+    "sentence": "It is important to understand how to amplify in the right context.",
+    "translation": "適切な文脈で「増幅する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Analogy",
+    "meaning": "類推、たとえ",
+    "sentence": "The term \"analogy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「類推、たとえ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Anecdote",
+    "meaning": "逸話",
+    "sentence": "The term \"anecdote\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「逸話」という意味の語が役立つ。"
+  },
+  {
+    "word": "Anguish",
+    "meaning": "苦悩",
+    "sentence": "The term \"anguish\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「苦悩」という意味の語が役立つ。"
+  },
+  {
+    "word": "Anomaly",
+    "meaning": "異常",
+    "sentence": "The term \"anomaly\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「異常」という意味の語が役立つ。"
+  },
+  {
+    "word": "Antagonize",
+    "meaning": "敵に回す",
+    "sentence": "It is important to understand how to antagonize in the right context.",
+    "translation": "適切な文脈で「敵に回す」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Antiquated",
+    "meaning": "古風な、時代遅れの",
+    "sentence": "The term \"antiquated\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「古風な、時代遅れの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Applicable",
+    "meaning": "適用可能な",
+    "sentence": "The term \"applicable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「適用可能な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Appreciation",
+    "meaning": "感謝、評価",
+    "sentence": "The term \"appreciation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「感謝、評価」という意味の語が役立つ。"
+  },
+  {
+    "word": "Aptitude",
+    "meaning": "適性",
+    "sentence": "The term \"aptitude\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「適性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Arrogance",
+    "meaning": "傲慢",
+    "sentence": "The term \"arrogance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「傲慢」という意味の語が役立つ。"
+  },
+  {
+    "word": "Artificial",
+    "meaning": "人工の",
+    "sentence": "The term \"artificial\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「人工の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Aspiration",
+    "meaning": "熱望",
+    "sentence": "The term \"aspiration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「熱望」という意味の語が役立つ。"
+  },
+  {
+    "word": "Assert",
+    "meaning": "断言する",
+    "sentence": "It is important to understand how to assert in the right context.",
+    "translation": "適切な文脈で「断言する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Assertive",
+    "meaning": "自己主張の強い",
+    "sentence": "The term \"assertive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「自己主張の強い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Assistance",
+    "meaning": "援助",
+    "sentence": "The term \"assistance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「援助」という意味の語が役立つ。"
+  },
+  {
+    "word": "Assurance",
+    "meaning": "保証、確信",
+    "sentence": "The term \"assurance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「保証、確信」という意味の語が役立つ。"
+  },
+  {
+    "word": "Astonishment",
+    "meaning": "驚き",
+    "sentence": "The term \"astonishment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「驚き」という意味の語が役立つ。"
+  },
+  {
+    "word": "Attentive",
+    "meaning": "注意深い",
+    "sentence": "The term \"attentive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「注意深い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Attributable",
+    "meaning": "起因する",
+    "sentence": "The term \"attributable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「起因する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Authentic",
+    "meaning": "本物の",
+    "sentence": "The term \"authentic\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「本物の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Authoritative",
+    "meaning": "権威のある",
+    "sentence": "The term \"authoritative\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「権威のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Availability",
+    "meaning": "利用可能性",
+    "sentence": "The term \"availability\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「利用可能性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Aversion",
+    "meaning": "嫌悪",
+    "sentence": "The term \"aversion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「嫌悪」という意味の語が役立つ。"
+  },
+  {
+    "word": "Awareness",
+    "meaning": "認識",
+    "sentence": "The term \"awareness\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「認識」という意味の語が役立つ。"
+  },
+  {
+    "word": "Backlash",
+    "meaning": "反発",
+    "sentence": "The term \"backlash\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「反発」という意味の語が役立つ。"
+  },
+  {
+    "word": "Barren",
+    "meaning": "不毛の",
+    "sentence": "The term \"barren\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「不毛の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Beneficiary",
+    "meaning": "受益者",
+    "sentence": "The term \"beneficiary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「受益者」という意味の語が役立つ。"
+  },
+  {
+    "word": "Bewilderment",
+    "meaning": "困惑",
+    "sentence": "The term \"bewilderment\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「困惑」という意味の語が役立つ。"
+  },
+  {
+    "word": "Blatant",
+    "meaning": "露骨な",
+    "sentence": "The term \"blatant\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「露骨な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Bleak",
+    "meaning": "荒涼とした、暗い",
+    "sentence": "The term \"bleak\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「荒涼とした、暗い」という意味の語が役立つ。"
+  },
+  {
+    "word": "Blunder",
+    "meaning": "大失敗、失敗する",
+    "sentence": "The term \"blunder\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大失敗、失敗する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Boast",
+    "meaning": "自慢する",
+    "sentence": "It is important to understand how to boast in the right context.",
+    "translation": "適切な文脈で「自慢する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Brutal",
+    "meaning": "残忍な",
+    "sentence": "The term \"brutal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「残忍な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Bureaucracy",
+    "meaning": "官僚制度",
+    "sentence": "The term \"bureaucracy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「官僚制度」という意味の語が役立つ。"
+  },
+  {
+    "word": "Calculated",
+    "meaning": "計算された、意図的な",
+    "sentence": "The term \"calculated\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「計算された、意図的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Capability",
+    "meaning": "能力",
+    "sentence": "The term \"capability\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「能力」という意味の語が役立つ。"
+  },
+  {
+    "word": "Capitalism",
+    "meaning": "資本主義",
+    "sentence": "The term \"capitalism\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「資本主義」という意味の語が役立つ。"
+  },
+  {
+    "word": "Captive",
+    "meaning": "捕虜、捕らわれた",
+    "sentence": "The term \"captive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「捕虜、捕らわれた」という意味の語が役立つ。"
+  },
+  {
+    "word": "Casualty",
+    "meaning": "死傷者",
+    "sentence": "The term \"casualty\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「死傷者」という意味の語が役立つ。"
+  },
+  {
+    "word": "Catastrophe",
+    "meaning": "大惨事",
+    "sentence": "The term \"catastrophe\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「大惨事」という意味の語が役立つ。"
+  },
+  {
+    "word": "Cautious",
+    "meaning": "慎重な",
+    "sentence": "The term \"cautious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慎重な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Censorship",
+    "meaning": "検閲",
+    "sentence": "The term \"censorship\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「検閲」という意味の語が役立つ。"
+  },
+  {
+    "word": "Certainty",
+    "meaning": "確実性",
+    "sentence": "The term \"certainty\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「確実性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Charitable",
+    "meaning": "慈善の",
+    "sentence": "The term \"charitable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「慈善の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Chronological",
+    "meaning": "年代順の",
+    "sentence": "The term \"chronological\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「年代順の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Circulation",
+    "meaning": "循環、発行部数",
+    "sentence": "The term \"circulation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「循環、発行部数」という意味の語が役立つ。"
+  },
+  {
+    "word": "Civilian",
+    "meaning": "民間人",
+    "sentence": "The term \"civilian\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「民間人」という意味の語が役立つ。"
+  },
+  {
+    "word": "Coexist",
+    "meaning": "共存する",
+    "sentence": "The term \"coexist\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「共存する」という意味の語が役立つ。"
+  },
+  {
+    "word": "Cohesion",
+    "meaning": "結束",
+    "sentence": "The term \"cohesion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「結束」という意味の語が役立つ。"
+  },
+  {
+    "word": "Collateral",
+    "meaning": "担保、付随的な",
+    "sentence": "The term \"collateral\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「担保、付随的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Combustion",
+    "meaning": "燃焼",
+    "sentence": "The term \"combustion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「燃焼」という意味の語が役立つ。"
+  },
+  {
+    "word": "Commotion",
+    "meaning": "騒動",
+    "sentence": "The term \"commotion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「騒動」という意味の語が役立つ。"
+  },
+  {
+    "word": "Commodity",
+    "meaning": "商品、日用品",
+    "sentence": "The term \"commodity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「商品、日用品」という意味の語が役立つ。"
+  },
+  {
+    "word": "Communal",
+    "meaning": "共同の",
+    "sentence": "The term \"communal\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「共同の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compatibility",
+    "meaning": "互換性",
+    "sentence": "The term \"compatibility\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「互換性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compelling",
+    "meaning": "説得力のある",
+    "sentence": "The term \"compelling\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「説得力のある」という意味の語が役立つ。"
+  },
+  {
+    "word": "Competence",
+    "meaning": "能力",
+    "sentence": "The term \"competence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「能力」という意味の語が役立つ。"
+  },
+  {
+    "word": "Complexity",
+    "meaning": "複雑さ",
+    "sentence": "The term \"complexity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「複雑さ」という意味の語が役立つ。"
+  },
+  {
+    "word": "Compliance",
+    "meaning": "順守",
+    "sentence": "The term \"compliance\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「順守」という意味の語が役立つ。"
+  },
+  {
+    "word": "Complicity",
+    "meaning": "共謀",
+    "sentence": "The term \"complicity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「共謀」という意味の語が役立つ。"
+  },
+  {
+    "word": "Concentration",
+    "meaning": "集中",
+    "sentence": "The term \"concentration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「集中」という意味の語が役立つ。"
+  },
+  {
+    "word": "Conclusive",
+    "meaning": "決定的な",
+    "sentence": "The term \"conclusive\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「決定的な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Concurrent",
+    "meaning": "同時に起こる",
+    "sentence": "The term \"concurrent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「同時に起こる」という意味の語が役立つ。"
+  },
+  {
+    "word": "Confidential",
+    "meaning": "機密の",
+    "sentence": "The term \"confidential\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「機密の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Configuration",
+    "meaning": "構成",
+    "sentence": "The term \"configuration\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「構成」という意味の語が役立つ。"
+  },
+  {
+    "word": "Congestion",
+    "meaning": "混雑",
+    "sentence": "The term \"congestion\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「混雑」という意味の語が役立つ。"
+  },
+  {
+    "word": "Connotation",
+    "meaning": "含意",
+    "sentence": "The term \"connotation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「含意」という意味の語が役立つ。"
+  },
+  {
+    "word": "Consequence",
+    "meaning": "結果",
+    "sentence": "The term \"consequence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「結果」という意味の語が役立つ。"
+  },
+  {
+    "word": "Considerable",
+    "meaning": "かなりの",
+    "sentence": "The term \"considerable\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「かなりの」という意味の語が役立つ。"
+  },
+  {
+    "word": "Consistency",
+    "meaning": "一貫性",
+    "sentence": "The term \"consistency\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「一貫性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Consolidate",
+    "meaning": "統合する",
+    "sentence": "It is important to understand how to consolidate in the right context.",
+    "translation": "適切な文脈で「統合する」という行為をどう行うか理解することが重要だ。"
+  },
+  {
+    "word": "Conspiracy",
+    "meaning": "陰謀",
+    "sentence": "The term \"conspiracy\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「陰謀」という意味の語が役立つ。"
+  },
+  {
+    "word": "Constituent",
+    "meaning": "構成要素、有権者",
+    "sentence": "The term \"constituent\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「構成要素、有権者」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contagious",
+    "meaning": "伝染性の",
+    "sentence": "The term \"contagious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「伝染性の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contamination",
+    "meaning": "汚染",
+    "sentence": "The term \"contamination\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「汚染」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contemporary",
+    "meaning": "現代の、同時代の",
+    "sentence": "The term \"contemporary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「現代の、同時代の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contentious",
+    "meaning": "論争を引き起こす",
+    "sentence": "The term \"contentious\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「論争を引き起こす」という意味の語が役立つ。"
+  },
+  {
+    "word": "Continuity",
+    "meaning": "継続性",
+    "sentence": "The term \"continuity\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「継続性」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contrary",
+    "meaning": "反対の",
+    "sentence": "The term \"contrary\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「反対の」という意味の語が役立つ。"
+  },
+  {
+    "word": "Contributor",
+    "meaning": "貢献者",
+    "sentence": "The term \"contributor\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「貢献者」という意味の語が役立つ。"
+  },
+  {
+    "word": "Convenient",
+    "meaning": "便利な",
+    "sentence": "The term \"convenient\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「便利な」という意味の語が役立つ。"
+  },
+  {
+    "word": "Correlation",
+    "meaning": "相関関係",
+    "sentence": "The term \"correlation\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「相関関係」という意味の語が役立つ。"
+  },
+  {
+    "word": "Correspondence",
+    "meaning": "通信、一致",
+    "sentence": "The term \"correspondence\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「通信、一致」という意味の語が役立つ。"
+  },
+  {
+    "word": "Corruption",
+    "meaning": "汚職、腐敗",
+    "sentence": "The term \"corruption\" is useful when discussing this topic.",
+    "translation": "この話題を論じる際には「汚職、腐敗」という意味の語が役立つ。"
+  }
+]
